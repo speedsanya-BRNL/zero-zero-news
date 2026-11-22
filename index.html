@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<title>Мировой Вестник — утренняя сводка</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="date-bar">
+    <span id="today"></span>
+    <span id="updated">Загрузка…</span>
+  </div>
+  <h1 class="paper-title">МИРОВОЙ ВЕСТНИКЪ</h1>
+  <p class="motto">Автообновление каждые 2 часа · Мир · США · Европа · Таиланд · Россия · Барнаул</p>
+  <nav class="main-nav" id="nav"></nav>
+  <button id="refresh">↻ Обновить сейчас</button>
+  <div id="countdown" class="countdown">Следующее обновление через: …</div>
+</header>
+<main id="app">
+  <div class="loading">Загружаем новости…</div>
+</main>
+<footer>
+  <p>© 2026 · Автообновление каждые 2 часа</p>
+</footer>
+<script src="aggregator.js"></script>
+</body>
+</html>
