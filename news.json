@@ -1,20 +1,797 @@
 {
-  "updated": "2026-11-23T09:11:01.994Z",
+  "updated": "2026-11-23T10:55:54.274Z",
   "regions": {
     "world": {
       "ОБЩИЕ": [],
-      "ЭКОНОМИКА": [],
-      "КРИМИНАЛ": []
+      "ЭКОНОМИКА": [
+        {
+          "title": "«Это сразу шок»: армянские фермеры рассказали, как живут после запрета на импорт в Россию",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVVkTnk5dFVidmFOTV84UEtSV2dlMWtiYVlwNjRjdXVSMXZBM21yMlkwWDJxWjgtSVY5Z1ZnYW5WWE5IcUFFRFB4eGg0YUFwZ0QySzVldl9YTGwwRW82OGNnd0Y2WEJ0aDNMeHdiaXJtdW8tVWFoa0gxYlBNS2R3bHVPMVJwejNwZVVBLV83TFVxb09Qcm1JdWFfQm1KTldvWEhqbG9NTHdmeklMY2NRcUIxaGEwVVU?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:46:45 GMT",
+          "src": "RTVI",
+          "thumbnail": ""
+        },
+        {
+          "title": "Платформенная экономика, ИИ-агенты и малый бизнес — спасение или новые обещания?",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWU1YS0NIbHVQdkhBWl9IWVV3YUhKQTBIWTllOUZ1ampRWE9mMlZzSkdHY3VDRUx5UkFKYmNmWU9HZHlpbklFUEx3VGdpQ1RiR1IwSVVUcVJFbXdGR3lPTEEzNXh0R3cwY3JhSlJVNjdvZUZuLU1Td3M0aV85Ul9jM1dBeC1YNmlKSlo4dzRiMG53aHVnZUVCWjhDVlpfNjhDX2lpcnRRZWFzTThs?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:44:14 GMT",
+          "src": "Пульс Хакасии",
+          "thumbnail": ""
+        },
+        {
+          "title": "«Полиметалл» создал в Красноярске компанию для геологоразведки",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVU1ajRBOWpHV2RzLThXN3lqVmVrVnhqMEIwLW45ZW54TTlMdktZUFpJQ3lNOHl3NDBQRWxhR3dIOWVHUm82NF82MmJxSmNQaW02bzkzcE9ZNEktRmRRSlJzaUN0d2ZnZlpENW9vc28tZ2JqTnJxZEZ2ZmxJRVhWRXFjbEJ0Y2tmR09LanRTZ3BSbGVSNnRFWVN3?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:36:36 GMT",
+          "src": "Агентство Бизнес Новостей",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Дубае с 2022 года закрылся каждый пятый российский бизнес",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VWYTEwZnFHYzBQNFZNVnZfcm9oM2NOekpIZ0xKZ0pFVGZOU3MzVjNnVnM4MDR3T2JwbDZqajJWbENZYWZxekttQ3RUYTVLYk44MHRNTkZzcjl3aW5kMThaN1E2eGgxZWd5V2FfN0RZdV9OZjdDTlVwSFY0YjY4VVJvcThPNE03cnhYOWpfeGk1UUdwR1B3aW5TRlrSAaIBQVVfeXFMTmpPNFFuNGlHUUNHSTBsQVlrRjBXUlYyWjhnQ2p1VDRHanFUMktjTThGbF9ZZ0lrOV9KOS1jNTc5VEc3OU9qWHdKYUlsZlowZV9Oa2R0MUljN2MwdmhiVnRYbXR2WVB2cFVVdDdXUWY2c1BUVXZQdE5MUDRkeU8wMjdIZEFCRkVhTHlmakhsTmk1bWxmVTJpa1RfQ21VWW9LdmJ3?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:34:00 GMT",
+          "src": "Meduza",
+          "thumbnail": ""
+        },
+        {
+          "title": "Российский рынок тестирует среднесрочный восходящий тренд, ждет геополитических и корпоративных сигналов",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVR1V0hlaUdWMWh0Y0Uya0hxTGFJWHBxcFc5XzdLLWcyNm5Xamh5U0JLc09fQmtMYThNU2xqVC13eU9hWEoxOGRvSzF3T3I1aFo4LWlhTjc1WTVzNXdCNHpFUzF0eGNuZjE3aTlHODc2aFVSWkxzSW5WMVpOeC1BallOaFlLcmVYWEtDVkNLd1JmTGctMGxSMUNQWDVSRU1tQTVGRkVxQTYxcC1zU3llb2Y4NzQwVGp1a2ZjOEpXSVZoeHlaaWgxRw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:33:06 GMT",
+          "src": "AKM.RU",
+          "thumbnail": ""
+        },
+        {
+          "title": "Как изменился рынок морских круизов: Азия и Средиземноморье вместо Ближнего Востока",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oemp3RTYtM0lnS3YxcVotT3FEbi1rQ292bVVwZW0yU09NM3cyTE9ObTdKUXhQQ1puNC1sOW05TnRwaGdpZHM5RnJTQ1o1VWtf?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:32:00 GMT",
+          "src": "Profi.Travel",
+          "thumbnail": ""
+        },
+        {
+          "title": "VK и разработчик «Макса» через суд оспорили санкции ЕС",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZlNsRU80THJHbjZFMkVwbDY0WHhmWjZqUFZvaUxfb3BoelBSNDh1OFRIeFhicnhJckE2cERSc0JYVkpjWWhOMkZUd1dfWmJ5NEdmaNIBU0FVX3lxTE1xb2JUOGFTUjJEZFpBU2hzUVBSX3lOQ3I1QlhRdngwOEkySGdXZ2ZxMy1BOUVLaC14aTAtcU1tX2hyYWt0R3M4MThrSnR1QXZRb3hz?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:31:00 GMT",
+          "src": "БИЗНЕС Online — Новости Казани",
+          "thumbnail": ""
+        },
+        {
+          "title": "«Известия»: В агентстве по делам национальностей прошли обыски – дело связано с хищением 360 миллионов",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzVVl6R0JiZ18xTXVsbGJBaklBcDk5MENYZkdxWWpTX1FoS0d3a3hWdkVjd1JmUjYtTlN3bmZQVks2YWpUSExIZWRzVkVYMG5HZFlIctIBU0FVX3lxTE9mOERsM1hUSmQ5M2lheDMyaHFOaWFnMVlpd1FWQjY2ZHY3QlkwTVhpQktyZVpDWEZWOFA1Nm1mQ0s1aWQxcmNNN2h2VVNCblZNcF9V?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:22:00 GMT",
+          "src": "БИЗНЕС Online — Новости Казани",
+          "thumbnail": ""
+        },
+        {
+          "title": "Сергей Местников: «Наша задача – выход якутского кино на международный рынок»",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjFPMmJ1Nm8wOFJTZlBkUDk2dVVMUEV1Q1pselVfakhMU1dTQUJxcGptM0MxbklGTS0tM0lCXy1JajB0Z1hoV1hhNnJQTDVURTdlQUVSYTFuM0V1NU84LUpVLS1LTHBBSDB5NF9fQnBhbURnRDFCbzJ2RkJUd2F2UFVESUlXVnhpY1R0SHhfajdSaG1YRFhFWQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:21:36 GMT",
+          "src": "ЯСИА",
+          "thumbnail": ""
+        },
+        {
+          "title": "Малый бизнес ощутил «бабье лето»: индекс RSBI в октябре вышел на максимум 2026 года",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jR1djX3pKZkpERG1nNUxiaDFUcDByYTR0T0VNYWxjN1RBNG9zV1V2OE8tUzR5cTh4ODRrVjF6UEhiYmVYUkRIb0o2Z1dDT25SX3NjakYtdEtMRXBkUVlCam01WWpQRE11bHJ6ZlYtNVJKN3hWMUk2dmE1Q0ZPeVk?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:20:11 GMT",
+          "src": "Финансы Mail",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Челябинске продают 20-летний бизнес — садовый центр на Дарвина: скрин",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tbGlBYnhRYlNqQjlsemxiZldWRnJMd2ZqSl93WGpTR0Y2UDRKb3Ezdzl2aFZqQ2V3aVJmQVU5MklPTjVjTk9v?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:15:00 GMT",
+          "src": "URA.RU",
+          "thumbnail": ""
+        },
+        {
+          "title": "На инвестиционном форуме «Россия зовет!» обсудят драйверы роста экономики, искусственный интеллект и развитие Арктики",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hLUd5dmhyUXg5N1NfNlk5bHRiM1lxeE5yOFpLcEZjazJLUGhSRUxNcGxkWE45NC1VTVgzOVNLeVRnaVhMM0Z4RVkxdWZEUzh4N2NV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:11:30 GMT",
+          "src": "Областная газета | Свердловская область",
+          "thumbnail": ""
+        },
+        {
+          "title": "КГИОП через суд добивается реставрации дома Нарышкина на Галерной, 9",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmhJX0NIMFc2TVE1U1FHSzdSaDVpNl9RSl93Tm9NRW1VOGx6MkY1cEZvWk9qdEx3RkdNMzEwYXNJYXptVGJrX3p6QmFYQjJZM0pXUDRxc0NqTDd6OHhvU0tDUzhaYmh1NTFnUHd5VlhvTFBZUE82dEFmaktzV180S1Z3VnM4SkZEZlpoTkpObVVRTkQwWDVFd2JDSER4N2F5OVAtOQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:06:54 GMT",
+          "src": "Агентство Бизнес Новостей",
+          "thumbnail": ""
+        },
+        {
+          "title": "Var Energi покупает норвежские активы ConocoPhillips за 4,4 миллиарда долларов",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamkyMXhoQkRZTlEzb3pKU2VKTDdlR2kwREhaa0RFSjhQY2tEeW1iMlR6T0toalBuTkFCdUJvcUhmTXZna3BYRmd3eDAwRDV0QnFVSm5EcmtJUkhnTEI3c0QteERMaTljaWFTZHpBMmczeHN6NExmQm91MjNhMGxQUTMwVk9CcEtBN2t2eUozcG9kdVQzNlU5dnlDMjNUTmZBUGg1WmZ3Tk1tN3VQdmkwUTNJN1ZuUlRQcjFkSg?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:06:49 GMT",
+          "src": "Финансы Mail",
+          "thumbnail": ""
+        },
+        {
+          "title": "Esteo стал лидером рынка премиальных автомобилей в России — отечественный бренд обошёл Audi и BMW",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0M1cFNYUlRINXYzdEFLSjVzRlJuVHJBRURDX0R1bUVIMkpYSGdEZVhqZDYxM2xBWHQxSUNwdlBadGZHdTlkM0QzanF3X2VSOGtNeDJuNGdBQm5NUUxCdU5rak5xeXprU2xyTXljZkl3eVJBRHlQZUdidmx5aXJGa2dSUi10TExQZmtwU2M4VllWZl9iY3BmUUFiLWtwclc3OVUxR3FXd1JYc1VJcENUckIySG04Vnhj?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:05:36 GMT",
+          "src": "rb.ru",
+          "thumbnail": ""
+        }
+      ],
+      "КРИМИНАЛ": [
+        {
+          "title": "На Ставрополье за тяжкое преступление суд отправил мужчину на 16 лет за решетку",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlZ0Rm5XcU5DOXQ2VXRhYXJpczdIazNGM0NGSnRVSXpoS1djRTgtdzRBOW9IdUtDVTB1aVFUSzJkZG5ZMWM2S2lHemdWTThtTVF2TWR1eFlLVGc4UXc4NWpiQXdJOFFRTDRZMkFMeEJlbWNnOHdzOHFreS1oN09TMUtDVm5nUEVOd3gtbmFWck4zQWdsT1pzdzhrTk1NbjRGRDNwLXU2ZUUxZExNWE1RR3Rn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:51:13 GMT",
+          "src": "Вечерний Ставрополь",
+          "thumbnail": ""
+        },
+        {
+          "title": "Восемь татарстанцев пойдут под суд за незаконную банковскую деятельность",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWhQMDFzZ1NQUzdya01sU3U1V253Y3FLWWdPY1QtRVVmN2JyTFhaS2pxX2plNG5wWXhnRVk3UWhndkVjVEx2T1NubEpVSU16NmY4NUNKVnNRVlJQblRkVkRHOTlVeTRzWWJ1M2s5RkJEcWtfdjc0aU5XN3dPY0pMbXExVlFsNmJFanV3VHJyejl3Mmk0amNyZXgyeWFtNzlJZzYwb2pJcUU?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:49:10 GMT",
+          "src": "Газета «Республика Татарстан",
+          "thumbnail": ""
+        },
+        {
+          "title": "Два человека пострадали в серьезном ДТП на севере Тамбова",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iaThRcmQ3NUh0M2wtV3RmcVI0LXVfYUVlY190QVRvM3FKeGJzZWNxRklzVEE0aVhYTzFEYTRGNmV2Tk5BLWdES1d3MTJwMV9XdC0wWTNpSFI?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:47:06 GMT",
+          "src": "novostitambova.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Приговор по делу о падении трибун на матче детских команд устоял в кассации",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMLWJPNkwxdXJoUzB3QVhadkpQcjRpZHpRUnI0RFZGd1dFLVJQUHRuNUwyc3BNZ2kyaHJtV1VOTmExV3FuelN6VDhMbXhBWWtNY3Y4VVltSjg0alB0QWxRQzkwSkxDa3lxbWc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:44:56 GMT",
+          "src": "РАПСИ",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд отказал «Криптоюниверс» в возмещении НДС за майнинговое оборудование",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTYVhNWjZPbkdRWjhMVFI4ZnFObU9oVG9vOS1HQlE4THdnVUFlcEU3Y3ZSem91NE9ZOHpLaUxxRzU2M1J6RDI3V1EyUVRYWDl0V1BXRXBjbFhJQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:37:27 GMT",
+          "src": "Энергетика и промышленность России",
+          "thumbnail": ""
+        },
+        {
+          "title": "Шесть человек, включая детей, пострадали в ДТП на юге Челябинской области",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWM0bUJRZDJjT0JTeXhnN2liNFZ3dDh0T2pETFBBSUU0N0YtTVV1NGgxc0I5YmltN3VxSXNqbWtBTC1kRF9nbGxRV3JQMEw0d1FEZzl3dWQ3XzRZWlpFQWtKVzJIeXJ6WVFTSFpxZDJGTzhscjl5S1FFLTE2MGpIRVZvdGhzX0Z4SUhDREVnaERWRzRGUjFUS1VLc21oa0pGc3l4S25FVEQ3T2ZvMVlaWERvX2FIQnFqeEppX2FLWFQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:36:22 GMT",
+          "src": "Европейско-Азиатские Новости",
+          "thumbnail": ""
+        },
+        {
+          "title": "Зеленский подтвердил причастност�� Украины к атакам на российские суда в Ливии",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2UwN3Z2Nl9YeE5vQlY5cnozUjZhR3Y2Tm5yRnR5VHVyQWZfRW1vVkhoNnFFLXJvQ2xSVlNZQk1ObkFWUFd1RHRVVlJUT0JpeGxiSDhQaE5ydFYzUkhudnBGQTdITjROMi11VUh3SWtiWVA4Rlc5T2RkMFQ4MjNlOEZBOVp5eFJ3MWxpcE9XQWRrSmdNNVpNOEUxYnkwRUREMGxMaG5EMA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:34:42 GMT",
+          "src": "RTVI",
+          "thumbnail": ""
+        },
+        {
+          "title": "VK и разработчик «Макса» через суд оспорили санкции ЕС",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZlNsRU80THJHbjZFMkVwbDY0WHhmWjZqUFZvaUxfb3BoelBSNDh1OFRIeFhicnhJckE2cERSc0JYVkpjWWhOMkZUd1dfWmJ5NEdmaNIBU0FVX3lxTE1xb2JUOGFTUjJEZFpBU2hzUVBSX3lOQ3I1QlhRdngwOEkySGdXZ2ZxMy1BOUVLaC14aTAtcU1tX2hyYWt0R3M4MThrSnR1QXZRb3hz?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:31:00 GMT",
+          "src": "БИЗНЕС Online — Новости Казани",
+          "thumbnail": ""
+        },
+        {
+          "title": "Шесть человек пострадали в ДТП в Советском районе за неделю",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjdaY0lRZnEyaGFfU2lVZXlPMGc5Zk9Rd3VJci1QTkVKZG0xYmRnZkdVNW1lUGU5T081MDY5bmkwNWhxWHJpSE9FWUpnakE5UFc4c1huLUlneGpIVkxYem1wLXktcW1vVlFmTFVuWDNiRUN0UlViS3NZcjRuYmFmZVBhd0dBQjFnMzY1WEpUcldxbllCd0lzNUs4eDV1R1JOOEE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:30:14 GMT",
+          "src": "газета Навигатор",
+          "thumbnail": ""
+        },
+        {
+          "title": "В ХМАО суд оштрафовал мэрию за неправильную установку дорожных знаков",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zWnpiY3l5N09RQnU3SUFsRWs2dC1EVmxQajVfVGFVclRYYjdRd3RvRTZZNGxScHEzY1lwcmx4NWVIbS1tdTNJ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:27:00 GMT",
+          "src": "URA.RU",
+          "thumbnail": ""
+        },
+        {
+          "title": "Дуров назвал отсутствие чатов в Telegram для планирования преступлений «наименее реалистичной» деталью в GTA VI",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEsyNWpzUlpWQTNkWkg1X3BZcE8yMENhbWZob0ZYQUUxT3o2SFRKb2doT0JlNDYxcHptSXpNNzBZZS1ZRXVUYlZEa3hNT08yWXcwdTdCM2EzWlFvNEhWQzExdW4wbnczVkdHUGxPajVnZ0tURTEzZXE0M2RNOV9obTNieWN3OWlJR2Zuc2FJZXFTMy12V01qOGdoMFJCRTB1QUthU1hvUXU2ek9QUTlOTzEzOWpFNlotOXk4TmQzZVgwX1F4NzQ2cGhGVkRQSmthVmhLU0xmWnIwbVozbDBaVExEN0ZoVFgwTXV1bVFWN0VKNVM2SGs4ZE1vUlFVSl9zcTNsMlk2SQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:24:00 GMT",
+          "src": "Правила жизни",
+          "thumbnail": ""
+        },
+        {
+          "title": "Экс-менеджеру «Интер РАО» Карине Цуркан заменили колонию на принудительные работы",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVVSb0ZMdlpkeW1mdTFVOXliNnNvNU1BWVlGSzk0bC1sb3JLRWtwcEs5SUxLOE1tSnNhQjdqRVc3RmN0VUNPdzFKZjhVWVZKRXRCeXBwZ1JXa1plSEszM2lXTDk2Z2VTM2NGeUZVdkw2RkxHZ2pwd1VmUThJU1B6cHZCWVdESi1ucEIxRmxHQkZxMDBGRXBHTXQzNEhlX1JTWTMwa0xKQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:21:00 GMT",
+          "src": "Эксперт",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Тольятти в ДТП из‑за выезда на встречную полосу пострадала молодая женщина - Волга Ньюс",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WR21qbk01dHJUeFlkekRTUGFvRG85QUFLek85Mjl6RWNqb2I5VGJoOWRURm9yb3ZvaWVqZk5CRWVvVzFCUFVBdU8wVEtMMzg?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:20:00 GMT",
+          "src": "Волга Ньюс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Погиб 20-летний пассажир Lexus в страшном ДТП с бордюром в Воронеже",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTVIT3kyZVp1RzRjeXhRM0x0dG02Tm42NmdMV3lGZkFzV0hTZlM2b1Qyc0NaQlRXWDRvdjY3YzhWQ0d4QUxzSWZVXzZac2s1RHlFZ2lzMDZpLUdMYkRXbG9ja29kMlgxRVNkaHFrMUdYTEM2TVR2YlRYY0lwYU9jTXZXeEVPRFZlRkRYTFFGcWE4QXZVWm1YbHhiWVlGOWJScnc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:12:30 GMT",
+          "src": "Горком36",
+          "thumbnail": ""
+        },
+        {
+          "title": "Серьезное ДТП произошло в Мурманской области",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3h0WnJTTnpibVdKaExmemI4clZtVWpBY3hjOGJ4R0J0UWFWdEVWSVZfODZva2JfUWFCcTVpNFBMUTdXYjZmeHA1bzQ0dFgzX1FwQ2pmRXlDaUNHVVBvZTUxVHQ3UUZ1Qk5qeFZMNVdsSGJCQmtCcURmTFhua3ZRWlJVbXE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:11:49 GMT",
+          "src": "www.mvestnik.ru",
+          "thumbnail": ""
+        }
+      ]
     },
     "usa": {
       "ОБЩИЕ": [],
-      "ЭКОНОМИКА": [],
-      "КРИМИНАЛ": []
+      "ЭКОНОМИКА": [
+        {
+          "title": "Stock Market Today: Dow Jones, S&amp;P 500, Nasdaq 100 Futures Rise After Friday’s AI Rout — ORCL, ZS, ZM in Focus",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQkdKYWdvMkZIcGM5V3dMbjEwem4yRmhpVVZ6S2dPRnBLUzh3SFdUMmNEdW84NDZVZDJfV0NJU0Z3WmFLNWh5eC1Ba0dxb0tBcXhxN0ZkdTZwU19hNjdGX0t5Q3h6LVFIOTdEQnZHaGVnM19HMDRpQ3p6TDl1LXR0QWxpRHBxMmZJZjl0OHRwM09FNEJMS1J5aGhYdTZ1M2pXNzF4WE1ZZjZfZjZhbmd6ZWppdUQ2ZGtVYXlLNnVIdGNZZURIYWxwdUUwT1ltTHZPT21CZ1l2ZGtRcFlTeHJSc2tqOHhaUjAwMkhvMGRmOA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:26:46 GMT",
+          "src": "Benzinga",
+          "thumbnail": ""
+        },
+        {
+          "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:24:04 GMT",
+          "src": "Bloomberg.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "Dow Jones and US stock futures surge as Nasdaq 100 rebounds 3% after AI selloff",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmE1UnJSa3dXcnJZVVFfNkVSVTB4bzFwOGtWOG1lNDh6dGZGX2I4cml4T1NBSldrMlljcjZNa1lqZ2RRNWFjVXJSakNSRldrU0RBZ1JKb2hFX0psVWlvOUV1RWx4aDFJUFlnUFZSNGhKT05UYTAtT1g0QXpVTUNtRElGOU1QNEhGcWRRNUpjaw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:07:30 GMT",
+          "src": "Beinsure",
+          "thumbnail": ""
+        },
+        {
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelY0b0J0M09UeWYzeHd2MXRLZHktZ2pULWtzTW9ELXlzUzRuRVpGVGRwcnpoc0laZDlVdkgxckotTTVLRWVRaV9iTmZjSjBnWERfWTh1M2lVUmNhYVpfSkE3cWIyVXdTaVdJLWZVRS1UWHF0TGgtelJZd1JsSjJXVzRPaDJoY1hUMmFZRmNUSk1GMlljYTE1T3ZPdHgzSTNKS3RyQTByanNXaWV0UUZDUg?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:07:27 GMT",
+          "src": "WRAL",
+          "thumbnail": ""
+        },
+        {
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYy1YZGh6cUdxejEySWNUcmlhSU1ldkN5Z1lzWlYwYzVSX00taFZGR3VEWEk5UFVSc252RFZrcjlwc0V3N3Nkd2gzWEMxU1dxVnh4MmF3TTJvdHMwSHJaNkxBbjQtMjZRZHFBMUZXN3lyNXJkZ3BvZG9WUDlYM2MxTEYtYnQzd2hSREZaX19JZFVGNEFPZ19lM2Z3M1RyeWRkaVlpMHNkTDM3T2MxQXVuM2w5bTJmOWhpUWFuSTlNbTNxZUxkaVdXbFZnMnUxdXVLTGROMDlSNnk5d0ExU2VvbmtKMWNoRlFVRWoySnpickhhdGI5NS0wbWltUllDeVE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:02:47 GMT",
+          "src": "Ottumwa Courier",
+          "thumbnail": ""
+        },
+        {
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWxTRlM2aGd6NlF5Y1d3NHRWS3c1UXdnc0w3UUFGS3JRLUExYmNDYnhVSmxyMi10RUs0amNsTTFCeGRBd0phQlA2WGQxRm9tU0c5aWlabHdvUWJmRGlTYWtMeW1aZ3kzODlTTjhWVGdwUFRCYWFjaXlhUXliemtFaDZfMy1hb25WSkxOT3c2bGQwcEdZME95T3hzNUR4T0ZQNWxrRlhRb0tmYWtXZ09qWlEyUnhfYldvY0NkSGtkbHk2dUtsOXJ4a2xVVkE1RnlRdzBOZE5xSjBkekNQc2RUTGtiejJPQkF0SjNlbmpvOTY3Z05QNVc5bmZn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:02:47 GMT",
+          "src": "The Sun Chronicle",
+          "thumbnail": ""
+        },
+        {
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeEgzVGdxUmltbVdYbWtqUm5icl9FSC03bDhPN1JrLWlEcGZ3c0hhbFhEOEt1VUJmSVZQbkVrdE9BUENxUlNTMDg0WVpPZy1PMks2VHFlWHBqTmVveXNNcUxSbTJkZTZTc3dOUTZUU09XcG1QZ3FJcXNQNk56aUVqeXRaU2c4MVJDRmpVZkFIeXdkN0xibGJWWlFwOHhudkVQVUNzakdaUWtvSk5mOFAxdEhaN2FISzg2NUVWSV9xSzFkWWJqbE5KVUkwd1pidnJKN3FKVWhBR0Y3UkxYd0I1MTlhd042V2FpbXBYWmZya0x0VjF2Y01pcF9qOA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:02:47 GMT",
+          "src": "couriernews.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "US futures climb and world shares are mixed as big tech stocks fall in Asia",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNlJnV2NpbzBZRG5ia2c5akFoVElNdUhpS29SeEMxZHFZNFB2YzRaY2dPSzJ0dWRWUTZzT3E4azQzSVl3dHRmTFYtcjFScldVaXlhTHo4dXVOTjNCYmFsUUVZWjRSc0luX242MTBJV0wtM00yblNISDJwQzd3Skt2cGVLdVdZdUR6Q2VRS2FKTFpHczN2U0J1NW45T2NLTFBBOWMtTER0VlVxMDZ5UzRpVHdFbEQtazE1bGNZOFRvcXdjcVdRbFk2TDF4dnJJYy02bjJyNmR4cXpsNG9lRGNwV2ZndGdSQjZ3eWVRcmRzNWpJMjNlT0kwOUZleDliT0U?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:02:47 GMT",
+          "src": "Richmond Register",
+          "thumbnail": ""
+        },
+        {
+          "title": "2 years ago, Saudi Arabia quietly canceled the ‘petrodollar’ deal with America that wired the world economy for 50 years. Then war broke out in Iran",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhuT3BBQzlvUFBEQjNDam1wcHc0Mkc0dWFTMHFlUjhvVG13M1BVYzBQZkpSQWFPUU10eVJGT1RJTkhvZU5yeGUzTUxZVWJnRjZzeVpLRWJHOFFHUlRidkpzMzdCZUItT1hDVElXMFdkd1d3OEFDRzRtbWM5NTQtTG0wbUFuYTRNXzZ4UmlxTlI0cGVKb0NhdFViQmdTZDNUN0E?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:56:47 GMT",
+          "src": "Fortune",
+          "thumbnail": ""
+        },
+        {
+          "title": "Wall Street set to rebound after AI stock sell-off",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:54:50 GMT",
+          "src": "Financial Times",
+          "thumbnail": ""
+        },
+        {
+          "title": "Crypto markets brace for U.S. inflation data in Thanksgiving-shortened week",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1oxVWwxc2JCWERHV1NVenNSR3lLT0VmOWRJUTVSUTd3SDFPVG5uNDVCTVFRYmpIbGRQZ014TTVRRjIzUnM4Zm1FYUlNTzl4cUVMYzNCc2xMVVJOSWd4V3AyQ3Frc2w4T0JEYktBT2pfLXl4WTRvb1dJSExRZU10ZGFmaVpSRFl3Q1dnQWNHWkN5QlNKcC1lR1dOaXRzbHJIMHZEZU1ablNaZw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:54:27 GMT",
+          "src": "Traders Union",
+          "thumbnail": ""
+        },
+        {
+          "title": "US Dollar: Hawkish Fed support keeps Greenback bid – ING",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXUyOVFuZXBkT2xsN05JdWRDUUR2MF9tVkJnckJpajdtVXJHZ3J0dFN0ZThEZ0lRY19LMWk5ajRCRkUxUGpieHBiTllQWnM5WVg5TDJfckZycHloVDZYQmtma2ZWUlE0d3hvek81VHhSM1FzWjkyMHdKUVZ3aXdvR3JmdXp6cHVRYnJQYnJYbGpjR2NHV1NHdVo5czI?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:47:42 GMT",
+          "src": "FXStreet",
+          "thumbnail": ""
+        },
+        {
+          "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWZra1V0VVQ1RjNkWVZPYmFmUFJyT21LQlZwZUNnWEp0VFMySzVQbU1pLWdqZWFadkNrNTA2V1R3UjR1d1pSaTJCeVQtMXpjZC12ZkNKR1dWZVhlRVVRaV92TW1rSTg0NERkVXNjb2paZUNxTVlhZGdVUGpKRldybm83LTVpd25aMnFuN2lDSGpKbmgyVG03cDI3TFU?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:40:25 GMT",
+          "src": "CoinDesk",
+          "thumbnail": ""
+        },
+        {
+          "title": "Core PCE Inflation vs. Softer Data in the Debate Over Fed Rate Hikes",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkhKYkQ3Qm9BV19CcVkxZWpSOUttSkJSbTVtZ0FSdEVOU0ZBNlZKbTA2OVhQcS1jN0o3a0F5N2NCaDV6LWxLMl9NTmxZeDN5UXRocUwwZ2ZGaVJhVDlmTlBiN3FYeGQ4c2JBcWREY24tTk9LcE9lMmdReTZic2lqTExTN0VRMjdEeWJwc3l2N0VnVmk2b1NqWEtZZlZoV01ELTE3S29icDR4UQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:39:11 GMT",
+          "src": "StoneX",
+          "thumbnail": ""
+        },
+        {
+          "title": "Gold Rebounds From 14-Month Low Ahead Of Key US Inflation Data",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmx3cGgwODJ0dXI0MC1VZHFBWGxYMU81WlVMcTNNelBpcDVhZnhsMVF0TkNDU0wzWmJhWlVwLXpEd21xTmNCVWF4MHdOdGthUlBsQkZFNkJkcGxJTGJZbVhoMWRHSF9HUnJGbFMybzU2Mnl1c0tSWDNxY0Y0VGFPa09jN0tpakVjcVhKbWE3ak9NcHVYc2gzWFhJZkV5S09uUG1NU0tfczFjeXpS?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:32:42 GMT",
+          "src": "Forbes Middle East",
+          "thumbnail": ""
+        }
+      ],
+      "КРИМИНАЛ": [
+        {
+          "title": "Iran files war crime lawsuits in US, European courts over attacks",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREI4dG8wdm9vcUpLT1ZvSWxjOGlLa1RsX0ZRdi14eHkxRUJpNnlxMjduOFZQTTlMNlcyWnUwTU9ZZFRmOGRNWGxMMUZRWFNoMFFJcGRBSkhuaVh0MUxKS05vdldILUJaNDRHTUY0c1QyczE1ZmZjN3NESDRyakVZRmhiQnk0ZWxVMUtqM090dnJIN0hrV1U2cHh2R081b2VqZVg2enpn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:15:32 GMT",
+          "src": "Yeni Safak English",
+          "thumbnail": ""
+        },
+        {
+          "title": "Guest Columnist Timothy Gramins: Crime is at historic lows. Technology helped get us here.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVFyVXliUEh4aXNYVmQ2T05VQXc2WUJ1b1gteVhZVG5Fb2ZSamxuSzctVDJvcFRRY0ptSHBvUmdxNk5QZm9EOFc2OXYwS29jcTdVYUhIc3J2WE95WFB5a3h4S1I1dzB1ZklxYnRQVHQ5c3AyZElwR2MxaXZKTVFqM0F4SDlIUkh5Tm1mZXBmZXVRVzdGSmwtOHBsMWhMZlpua04zREtYek9kbjU5N1o4X004MTQ2aWRQZFhtUnhxVThxUVMzZlE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:00:56 GMT",
+          "src": "Daily Herald",
+          "thumbnail": ""
+        },
+        {
+          "title": "Talk of the Town: Violinist HN Bhaskar's US arrest sparks ethics debate in Carnatic circuit",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUXlYUHR3SklyeTJvUVlnVUNwbkhWZnMwcHY5R3pnQXlZYy1jb09BRTRFYmlqMkhoanFJZ2tQQ1RWVlhuOE5wNnZLNi1ISDZDYXNIYi10dklnM2ZJbWZLeHBSa1dmU0EwUXFHVC1WU3JIeFJtUnF5b1J6LUZoTU54X0JYaEg5ZEtUa0o1OXpTZnRIQTJJVXE5b2t5M1Zjc1MzTUZscTFlQUQyZ2p5dnJReWZiOVc2WFEtRzM4ZzFpMXktRXByYjQzd0ZkUDdWYlp4NWJaQkxlT21yeDk0b2NWX1BSSU5hY1VQTlZPUXdpcTlrOExiNXd2RmF5QXhDdWozNGh6MlptaVFuN18teENERNIBlgJBVV95cUxNSEpzRXc0UGMtVk1vME1fLTJBNUZ2TVZrQmVxWmRvd056dEd2bFFZdmM5TFI4Q1M1dHhLcWdmbk1GalNLMkhQTnBHelNjc2t0LVk3Vnl5Y0ZNdklVb2FHQ0hDQmJKN21HT3E3UGpmR0ItbGNpVnZCM3RVall2OG9lNU1vVHpvVERfVURlT3dwZnNuRnF5Wm1uNm40Znp6Q0JiMWZXVS1remEwV2Zkd2dlandHUm1zY1l2XzUwVFNhWUdFZ1JuY0J1TzFNMkREU1VXR0Y4UmdFQzM2anBMNldjQVJlZTRJNFRYSHRqQXp4bnFKM1ExUDYxSllDMVpETkk1X3R3b1hieGdVa0V4dmRST2JHcV9iUQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:01:00 GMT",
+          "src": "The Times of India",
+          "thumbnail": ""
+        },
+        {
+          "title": "Seattle airport operator 'outraged' over ICE arrest of two passengers",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GUERNQ05ZVmtwbUl5N1hfdzNiZWxwMllPVWlEb3dsaHhqY1ZOUDNZc2U2NVYwdFpvT2s3SHctN1VXTVc1azRoLWFwZE1BU3U0cW1RX01JVGR6UEE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:59:38 GMT",
+          "src": "BBC",
+          "thumbnail": ""
+        },
+        {
+          "title": "Muslim man in US charged with ties to ISIS in Georgia",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkRvN0ZWUURsa3IxVHdrR3hRTVExQkIzZGRJU3ZIdmtvTTdhOG5MUUR3UmZ0RU1VTGZpMG85dGp5RWZ3M3NZLVl2T0hyMDFfVjJzczdGckJMREtFUTBvME5kNWtNdFRRQzBzZUVkUVZpQmZRMWdJUGdjakhFa2hWWERRR2FObW1IMks3UU0yWk0xQldV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:44:51 GMT",
+          "src": "The Black Chronicle",
+          "thumbnail": ""
+        },
+        {
+          "title": "Mexico Captures FBI Top 10 Fugitive ‘Chapo Isidro’ With U.S. Intelligence",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnkyTVV4TU9ERlo4dkxrYnBnQkk2MjFxZXpBb0Q0VDZUYTBvZ212MGpwLWxNVFVGc3JWeHl1WDJuMnRjUTBmejk3SmJaSEJDVnZYbWQ2bUtONkVLM1NmYVlUNEFaQ2hld1FjOGtPaEZiVC03RUQzM2p2QlRBN3Z3cTZ3UjFRU3FWaXdEMzhpaGdJWWZoa1A1TmRDOWsyXzlFSC1UQWlR?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 23:31:14 GMT",
+          "src": "Dallas Express",
+          "thumbnail": ""
+        },
+        {
+          "title": "Brother of woman killed by U.S. Park Police demands answers",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnV1VzhpQlZ3ZDN1akQtSlUtLVdhUU9kMXhvcFNISHF1T1F1UFV3TG5FOEVYN3lleUw2Rl9jYlZYZ2ZwbERhMHNLNmF3eUctWGs5cUxFbFpjRnVGQ3dJNmYzaVpiU0lrUlMyaExtOTF6dm1TWlAwVnJSNXNjck9iR0JWY3E3MWVOdjdXOS1TQ01wd05DMzg1ZGl6aEE2OTZuN2N4OXdkVDliX2l1LWI4OVBvVGvSAbwBQVVfeXFMUGhiWXRlZWdmZ1lHVlZ2TjQwLXlUNmRKZjlzS2pHRHZRVjFJX2FiWk1rZnQzZ0hrZVJRTWZKX0hSdHJGam5Ucl80cW9PMldxSXYtWEJQTU5DbEZ4NE1lN0RPaGxQOGRUcGt1bWVzQnVHUFZjay1NQXA2NUVDeFY3QXpnRHoxSldHdW55blMtVmFudFY3cUJOUXZCdU9iT25RTEVsbUEwNXBTcmgxak5VUHlaSGpkWGRtdVFWcGM?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 23:20:52 GMT",
+          "src": "NBC4 Washington",
+          "thumbnail": ""
+        },
+        {
+          "title": "Missouri mom charged with murder after police say 3-year-old died of untreated cancer",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2toN2pRLU9IMkpGOUR2bWE3QzVCMG1MTVRaOVdHZ0FMcjlKNWk2WGkzLTRZWk93RGtIeWJ0cVBiYVlSR0FCLUdYd1FrODVpS0tOSDBrVUJuMk9YVUJIYklreDBBdUhsUmQzT0I3TnM1ckp2ZzJIWTRuZDJBcEtTZ2xqUkNNS2ZxYUNIeTJ4YU1jcC1CUUMtTzctc2s4MWU4MGFwa2FxV2lONWNjak9PYkFaYzBOREw3R1E?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:42:02 GMT",
+          "src": "NBC News",
+          "thumbnail": ""
+        },
+        {
+          "title": "U.S. immigration officers arrest 2 passengers boarding Alaska Airlines flight in Seattle | Strashin-0900",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94SGZjd2dXQ0dTbWxybTVQNzV0R1N6ZFBOdnREalhzTGN1NUItR19pYlctS0lGY2lvMHhTaGVQNnI5dExHQ09ldHFneWZxamJzSDVOODh2SnJidw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:41:02 GMT",
+          "src": "CBC",
+          "thumbnail": ""
+        },
+        {
+          "title": "Is the US under cyberattack?",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXNtSV9BaVRXaVpkZWhmdXR0TkF6T1BJYVRteUVrMW9BOXp3OVNTZ2F3S241OFBaWkVaaHZMbEhWbG53XzF5SHBaZEtHQ21qdXdzLWpSa01SZElzeWNPeURiRUJFSk1DRDlULVpZOTJwd2pNcGt6VGxybEQ5eFgwU2s4d25QazRyeTB4elBKTWd5WWt5MmxpaA?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 19:01:05 GMT",
+          "src": "DW.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SmVrN25Ld3U3LXVQM2xwR2ZyaV9SalpVTUZ6bDV0bGFheEVEelZXUzAweXEzSkdvYkliWjNkMEhkLVozU2Zfbzg3OUdUM01aRjFLSEhnMkd2OVdOT3I4TFZXTzZMWkRaMlhN?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 18:49:34 GMT",
+          "src": "CNN",
+          "thumbnail": ""
+        },
+        {
+          "title": "Iran files war crime lawsuits in American, European courts over US-Israeli attacks",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzBwaXNxU0ZBbU5BMEEzdVYybk5fcFB3eDFtN2MxenpQczhHT2haRWNKRDJyYUQwaTM2Z2dFYW9tMzJNbzFTNE5QMTlsLUxmeUVKWWJqbDhWMlR2M3M5d05PTDBCWWdGR3lRUzFYNHhzZEQ1akt4RGhITzlwNzhwTy1wUGI0anhZMHBGR3BTdll4aHlZTE1zT3NYajhMM1Rja2FTSnp3dnBDekpkbmd5aDVMNFRmYlpSdmNDNjRlVW85YknSAcgBQVVfeXFMTWc5OXBLLUhYSldkUFpBQi1XSXg4bzc2eXJNTVRzTUozdmJFX3FSTTRweHZXLW5KV3N1UE8wOW8xYzV1RUlCZW4zeWVSUVZlRGpkeC0xREJqWXAyTGxOMzkzQndzYl93NDVOQmxMa2Nlcm9Bcm53UXJPWDV4YzVCOXFnYWVEUjNPYnFXd2lhblc4c1NPMG1kSm1sZTA0cGw1R1Z2VmhrbElCQUh0YmcwdUlybG9yS0lXcS1yeldkaVlaaGd4LWhDem4?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 18:15:00 GMT",
+          "src": "Middle East Monitor",
+          "thumbnail": ""
+        },
+        {
+          "title": "Muslim man in US charged with ties to ISIS in Georgia",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUW8yYmhYWmlqNTRWQ2xhazlTY0gybk1xa2FGTjJzQ204Y0dSOEZpdU8tOHUtWTZiaDZuajM1Z190WlFYd29ubk5Ed3psbEV6NXBfYjhsQnFab1A4aWdUZHI2cDBPME5ZR284a2RKcHNPcFlSNlVWdG1jcDdzTDE3bTYyY01QWk9pWGlDOXFGMG9vMnFZ0gGaAUFVX3lxTE9iWmw1LU1OYmFFQ3R0LUpINlRyMkpsWWRJcTZYRDg1MUt0Rk5yOVlaUGFaRHAzZU85YTExU3hnT21rd29yYmtMNEI0UWRpWVFKSk9DRWZab0Z0eFVmSGJpTDJ3a3psZElfaVdJN2pzd2xaVWFhXzdwWHh5UEJWU3pRaExBR0NoZEF3bHdSMmtJX29kcHpJWmJCaWc?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 18:02:00 GMT",
+          "src": "The Center Square",
+          "thumbnail": ""
+        },
+        {
+          "title": "Muslim man in US charged with ties to ISIS in Georgia",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0Z1RW1rMHY2cU51Z2JFUzZWdlUzX29fdnpjVzRpX0hJUzk1NzFpMC0yOVZBOXFJYmVOdTdWNE1aMmRhYlN5Zl8zN0xCQ3ZFWFdmQU5hYlBIN3doRTY1V08wSkRBSGZpQXJVR1dUNTJ0TlBWejl1RXRxZllGdjJqejNobERrejN6dUdRVzBJOGxUS29QdjB4bE5qR1ZuWjJIS1UzTUtnR3pNbUMtR3VSc3h2bzVqOUFNU1NEeFhQSlFycDNPRWJOV0pCMGlyV3ZH?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 18:02:00 GMT",
+          "src": "Marietta Daily Journal",
+          "thumbnail": ""
+        },
+        {
+          "title": "Police investigating whether Titans’ Jaylen Harrell assaulted driver before Florida crash",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaldZWVpZOXVCb0JydUo0MHpvOW9Ba2wwUlJwdU8zVUJxQlZxQUxCTk54YktyTjZuVXVGNW90dTlqYTIwOTIzNXJZNWt6RGxMRTRQWmpUd09wUndvTHF6QmpIc3Q0QjQxLWJOV3RZRTd0elVZNFZwQklkY2g0WnEwajNERjhLOWNSWmQtbHRSekVMblE0ME1ValF5bm1QT2NrcHItVlFnbFA4akR2X291UFBkaVNoRVhTTnc?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 16:30:08 GMT",
+          "src": "NBC News",
+          "thumbnail": ""
+        }
+      ]
     },
     "europe": {
-      "ОБЩИЕ": [],
-      "ЭКОНОМИКА": [],
-      "КРИМИНАЛ": []
+      "ОБЩИЕ": [
+        {
+          "title": "Flat Holm heritage project named UK’s best for regeneration and conservation • News &amp; Blogs",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmtiaFpzenBzRWRiM21abEVDNndqNGdLZnVaSUZHUHkxczBQYlo2N3Q2Z3JDZ002cWlaVjlselM1dzEzRUFYVm52QnpJVVZLU29ZNFBkXzZteDhUaGFxNWpsM1pUcjFYU25scm82Qm1id3pXRmN6a1QydHdOdUtfb2xfMHVBSzNQTmg4WmplWjBKRV9NVXZqR3NYN2dqQlZSMV8xLVFuV1pvUmVhNlVvblFPMA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:53:33 GMT",
+          "src": "Visit Cardiff",
+          "thumbnail": ""
+        },
+        {
+          "title": "EU budget for 2027: Council gives final green light",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3J2cENobDZfb3VGNm5ISzBSaHlldk9KcE5wZ1RZeHpyNl9ONnpCVFBEOXpzRm94NzhoQU9QdVhKVV9MeVFoUEFNU2RRSXh3MFF5QXlHTjM2dzFPdDVOSDYtZWVhSFNoM2F2V0xWS2xQMG9WSnFLeXNlMGlUVVY0UnU0UnFGN1ZPXzlXaUM1M0VCZlJPTVk1VlBjWFhFNW9ZV0NVX1g0b1hlRXpxR2dLQi1uLXQ0WllsZ2c?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:42:59 GMT",
+          "src": "Council, European Union",
+          "thumbnail": ""
+        },
+        {
+          "title": "A new strategy for another Europe: a Southern European contribution to the European Security Strategy",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObUQta0tuVDVRUUhVVlhtSWhaeU5MNGROVHc2dDljWm9TQXYtUlVhQk84dk9QT2xxcjVjYmQxY0k1a0pLRUd3eUc0XzFlOTlZRjkwRnBzV1Z2Vy1NUC05NUlZaTJaTEpkY2JzOHJIT3I4Sm9idjV2Qk5oWGRSMnoycVlxbVFKQ2N5TTR5WkY2MkVqYldKUzlTV25heXhKRS1vclZUenhNUkUwWUxSZE1tb244WHlsckZmNG1SVk5vdzZnc3hBaFFFOWVlQWJWOXRYcTBoc0VUb1Y3WFRiOEdUaQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:42:39 GMT",
+          "src": "Real Instituto Elcano",
+          "thumbnail": ""
+        },
+        {
+          "title": "Germany: Draft for new Investment Screening Act | United Kingdom | Global law firm",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjRHNHFPMWUyNmE4ekxlZk9OOTV2WXMycnhpYjF2ZW1DS0UydnJ1SWQxM3QzR3c3NWRKQXdNZVBoMm9ESUM2bzNmdFVqMVA3bW82b0p1YXQ1SlNUMjAwSlhEX19oemc3dUlkWnlBLUs0dFgzTE9zOE1mamE3RDBRdTlzVmExdTdLdm9xYjFranpiYnFqNlp0YTUyRjh5dEpWOUZOV1hKT3BaV3ROZ2RobWYtQjB2aWRQVXc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:36:25 GMT",
+          "src": "Norton Rose Fulbright",
+          "thumbnail": ""
+        },
+        {
+          "title": "UK Minister to Tell Business Public Control in Its Interest",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzR6b2s5bVNjeWdfYjNGSTU3ZDNtRGhScnpIYU4xcTBFWHpUTV9SZE9SNDNtOVlxTFctd3B4ZjIyQVlhV3U3VkdteEdtbUhzeXhPVWJ5YV9XdnkxYURXMzRsdzNkaEZKQ2hqd040NmhKd3NSU09najJBcU5zcjlxNWFnODR4Ny0tVWRWN1RVTzZLT2F0eWdzd1BtREtpXzhXVU9ldS1XSkhKSW5LQUxISVNPQTF3NHZ5VGxIZA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:16:03 GMT",
+          "src": "Energy Connects",
+          "thumbnail": ""
+        },
+        {
+          "title": "Burnham’s EU deal will not guarantee cheaper food, Haigh admits",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamxOWExXRlhIOHlTMG9XUFM4WFFxUGFzQWl1c1dCOHhDeWE5Ylp5UndOeW5iS1diaUFFd2RCNm9BNFlYUDBlczAxbDhxODZsSGJHTEJualg0SFVFSlVyMGViRGp4NHVudXBBaExXcDZ5YXVDM3FEMUlQTlpUVTZ3enZlMGtIMzZKdks3eERpSURVUk1GdE9Ld0tVbjY?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:10:00 GMT",
+          "src": "The Telegraph",
+          "thumbnail": ""
+        },
+        {
+          "title": "Calling all innovators: could Horizon Europe help fund your next big idea?",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUtEY05ramxaeFpMcXgxSXVScmpieDdOM2hNYmt0cVU2Q2JtNV9NVzg3dnJVYzNHSHFfc0MwTVk4WXV1T1R0NGdiTF81RzUwdTRzOVNZUmxXX0xmN05uSEdNWERmcUdXUXkyZDdiZUowSXo2NFVfZjlqRWI0ZFZxbll1ek1KSDljYWhZZUhYLVJxY2FDRk14bXV3TUtpZ3hVcWNCdkw1RnZzcE0xWDNjM2RtVks?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:08:00 GMT",
+          "src": "The Guardian",
+          "thumbnail": ""
+        },
+        {
+          "title": "Education Secretary champions UK education in China",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnNIMzVja3B6Rml3d08wQ2s3eG9mclJtWVc4WlBUYjhQbGpGa3RXR0xTbi1vV1pPeEpUWlpvQnVNQ1M5b3NJdklIdVlTRHhqaDRzYzBfNlBGM3dIOWZUR180WERiMGVoTnZPUmxqTVk2TUxjZ29WYXAtN0JyWm5sZEpCVHJPTkVkVjBMNG5pZw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:07:13 GMT",
+          "src": "GOV.UK",
+          "thumbnail": ""
+        },
+        {
+          "title": "Catering giant to switch stock market listing to US in further blow to UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sSUdWMmoza3FjbDZjR1BNWVNWX3YtdTJGck9tNXpha2V2NFdtLTVBVTNWdzM2ZFpXUXJCWTJGZTdaZC12S3ZOTmZMWkVBUnFkU3NhQ3VXT3VTa0VlRFE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:54:04 GMT",
+          "src": "BBC",
+          "thumbnail": ""
+        },
+        {
+          "title": "MPs sound alarm to government over urgent threats to pig sector and rural economy",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYUJKcTZwcEpxMGVsZGJ4akg0UlJ0RlFMQWs4aTJmalBsLVNxblNpRy1vRUVYYUt0OC1ZYnlvUTktajBUUUkxV3F6cW9WdV95cUtEWFpTeEhCdkZKQlplTUV5NzFHVFpPR1IyRnlYUVNlMzQ0SmdXMFhnVG9SUHhqeVVmeWJySEEzaWRjaFdocmVxUjV4NDlWME1VZVdvdHhodk9CazhBYTBLREp1ek5GU1ZCVElmUG9DTUNzTEhIQWtzUmlyZmFGbmNOUmpmX3ZsWlNGS2RxTnliWlJES3c5UjdfS1Rna1lGeVpCelB4SFE2dC1jRlg4eWFSMFNRbk5fWWt0ZkVNWm50a1Jib1FXR0hQUQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:53:50 GMT",
+          "src": "UK Parliament",
+          "thumbnail": ""
+        },
+        {
+          "title": "UK statement on Ukraine - IAEA Board of Governors November 2026",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVJFZ2d1eTdONnE1QjQ5a3hLYzRqUlVvZWpGSVhTWEV5ai1UY00wSHhLd21TNkFRNWtpc3BZSklQWm1IRnRSSENaNlhaZTJhbUNvZ0lUMllnak1VYzBmLXEwNHM2STgwZGQzZHk2MlpKMjBaTXVESEhtWkZJRzBBdXpYQVloaHVCWU9nR1RyQi1EODVVS09SNnpvY1lPYXN1Z2c?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:52:51 GMT",
+          "src": "GOV.UK",
+          "thumbnail": ""
+        },
+        {
+          "title": "UK-EU deal could ease food costs and boost recruitment for sector",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVWNVVWxkQXpMNGZuLW1pWTBvZ2F5ZV85dDVoc3FtY2Q2T3NSbDhiN3FpVDdBQ19rQjJDMlVzNVo4V0N2bjVOdGJHUTJBMEZJOWdfUXlpZ2sxR0JpU0NYeFR0cEQ3LUpFT0g1OVRXOWhNczlpc3NDaFktT1R2bXZzU0VMNkd4ZDZ2M0FId3dmbUtVRkJBZUVzMmJzeWV5R0otYUZlaXdHcWtsd0xMdkliT1IwTjRKSkIyTV82QUlR?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:51:20 GMT",
+          "src": "The Morning Advertiser",
+          "thumbnail": ""
+        },
+        {
+          "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUV4REl4S2dSTTdBQmlTRTBnSUsxeDk4WDV4YUpHOEJLR0pLemF5Qm9tOF9oSGQ3ZTNqSDFmR054WllsMjR3VXh2R1lGQWRkSzBraEtGbi1pQ0x3cFUxTzRfMVhlQ2o3WnhPNzRzWXJvNVI0aXA5dHc5Xy15bkwyYzA1OWxLT0FNTTY0N0ZCa28yZldDV1dJQmlpdXNfYWdEUXpWUFMwejJIVUt0Rm16SEN5RW5jVHkxRnVpWUVFcTM5MUk?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:51:00 GMT",
+          "src": "The Guardian",
+          "thumbnail": ""
+        },
+        {
+          "title": "Bouncing forward on the accession track",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcm1FSWg4a016aHFvbW1ZSEMyREZHTUkybEVtYzNDTlhCenVCMlVVU2tBT2loUlRqNTRGN1h3YWMzRERUYUpJVGlwX0tDWTU5OGNCWmJHa0lGdzlzb1FCdjdaSm0tMFdPbEl0eXl4MVcwRzh3Rnl1bWlGNlcweHFxVlFRYTQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:41:17 GMT",
+          "src": "CEPS",
+          "thumbnail": ""
+        },
+        {
+          "title": "EU, EIB launch €7.5m fund to support green technology in Jordan",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV0lTV1hwTlYtVFg5WmRSZ0xqTmJEaGRwY2N1c3hOOGdaMHJQMEtCLTR1UkdrTjNsNEdpT2l3cVZfWmZrMk1Jdkt5b3Q0OXh6RWVHREZMc3JYNldmZldBbw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:40:35 GMT",
+          "src": "Mobile Europe",
+          "thumbnail": ""
+        },
+        {
+          "title": "Report finds EU not moving fast enough to protect its citizens from PFAS",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN05iLU1NTUwxbHd4SklHaVB2ZTBUenFTQVJhbk4zX1ktdW1ScUxWUEJJMU1ubTZlQ2pGRFFmcmZReU91SDNNMENyaHYzelh1LVVHQURkWmNXVURhNFZKal9aZnZqVXNHa05KcFBtYXYwZlJLVHJESWRqanBjX0ZjMVhCOWFQY05IX2ZsS0dpM3l4VmFmX0FnbEtJWkptSTVhQ2xfNFJvdTF0R2xJY3NOSkZ4c25uZVdQUXFtNlVmeXZ4dw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:39:12 GMT",
+          "src": "Chemistry World",
+          "thumbnail": ""
+        },
+        {
+          "title": "Eurozone growth maintains its pace as France weakens further",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVNyWGs0V1FRRFNSVkowWHZJbXNJMC1WZ1JBaDZ4MXpTYjVVZDVTZFU2WWJkaHZPd3dDRUZNdGhub0lsTUtXQkd4RGJVdjZmaEtoRHpkTUFfOXFIWUFWeVk3RWhtck1kZ09NYmUzU0hVd2xyajdGbGVyYUNjZm1QdGxuY281ZG85bFFtQ1JaQjdaUQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:37:57 GMT",
+          "src": "ing think",
+          "thumbnail": ""
+        },
+        {
+          "title": "Springboks team to face France: Sacha Feinberg-Mngomezulu dropped",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGI5OVVnNm1nZGpVQmNjaXptRDU1QlFmZS10N2wwOVp3aUFRS2h2Tm01TGtENDNQVlZZVGdOMHZzZUowZ2ljTnJFcXM1ZENUXy0xYXVmckVBblJ5UXdiNmxBMVJJVG1HdFEzd2xmTm5lUnpRdHFGRkdfNW9PNXN4R09CME1sb3VDMjBLNk94eEhqczV2a0paZ1B6YWFTRnJZcjBYN1hOYkZOVXlRbmc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:35:00 GMT",
+          "src": "Ruck.co.uk",
+          "thumbnail": ""
+        },
+        {
+          "title": "Burnham to set out EU deal in Commons, as Badenoch says Europe 'not market of the future'",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfTUtKcXg3UmVJLWZOSEZ4N0E4eENYT2dEb2tVd1BtMzI1LTlOdTVKYlRMS2h2Z1BYcHlQZ2pCYTJIY2pJNXNsa3JyUGE5ZGdXWklUOF90MU4?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:33:40 GMT",
+          "src": "BBC",
+          "thumbnail": ""
+        },
+        {
+          "title": "Rejoining EU gets harder the longer Britain stays out",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWh1Zi1RS1prbVlHWnNYdGlHbmxSc2RtUWRkcmlrWTNGSl8yaGdBcDdOMXg4OXdXekNDTmRQMW4xYlhlWjNDalZfc21odDJ6dWRyY2JsZE9JaXczSExjVVNRdkQxQmJNOVlWN2FqbzNUYnBDVFFvN3ozZnBoYXRYc3VIZWo?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:30:03 GMT",
+          "src": "Financial Times",
+          "thumbnail": ""
+        }
+      ],
+      "ЭКОНОМИКА": [
+        {
+          "title": "Airfares in Europe to stay ‘largely stable’ in 2027, new forecast suggests",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdW9STEpEXzlaM0R2MG1QMWI5N01XWXlFeXFzNjE2Uk5xR1Q5eEl6MUdUZG0xdUhNbVY5bUUycldDYy1pbnU0c2I0ZTQwV21CMW9oekU0a0dsdGxCWHpIZzdVSk1PS3hrX0xjYnc4cVB0cE82UDdQNzEyemZ6bFh2ZElyckxheVZhQWdQdkNCSkFOVXBGajNXeG5sXzMzVjZyNTdaODVWcDJNUzQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:07:31 GMT",
+          "src": "Euronews.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "Holiday spending in Europe to increase despite inflation: Mastercard Economics Institute",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGVfaDNFVFJFQkthNmp0U2RIVVVjRHlGTGgzM29HWGpTLTJxSmY5bDM3aEdWbWZpdi1jT05vSHk0UlpPZ1AyVHVzNVNqUUtXQzVBMzZrMHYtM2J5RnFERnpINkUyVWRScHlhLVkwbDAya0VQdkpwTW9SS2VuSjNFSnM1TnFGTVpXdGFyMjFiaTY0clRTTjlmZlBpcUppQXItUWdaakIwcw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:01:46 GMT",
+          "src": "CNBC",
+          "thumbnail": ""
+        },
+        {
+          "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUV4REl4S2dSTTdBQmlTRTBnSUsxeDk4WDV4YUpHOEJLR0pLemF5Qm9tOF9oSGQ3ZTNqSDFmR054WllsMjR3VXh2R1lGQWRkSzBraEtGbi1pQ0x3cFUxTzRfMVhlQ2o3WnhPNzRzWXJvNVI0aXA5dHc5Xy15bkwyYzA1OWxLT0FNTTY0N0ZCa28yZldDV1dJQmlpdXNfYWdEUXpWUFMwejJIVUt0Rm16SEN5RW5jVHkxRnVpWUVFcTM5MUk?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:51:00 GMT",
+          "src": "The Guardian",
+          "thumbnail": ""
+        },
+        {
+          "title": "Europe Energy Drinks Industry to Reach USD 34.5 Billion by 2035,",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1RlY0hTUHRGODJMemY5TDFNUnlibEVfdnZUZjBEUjVKb1ZKM0RYOE9BbnIxOE9BcHlIWnlORG1hTm1pc05RQmlmdGNvTjBwenZBZ0w4aTBFdkw4SU1jUmNEckthYWhraS1MYWJocHBoWHBQUzdOMDBKc2pGNnRLREI1aHZ1Mlp3a2xzWTNidGpWNjZwRDJ0b2d1OG9KRDhz?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:23:11 GMT",
+          "src": "openPR.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "ECB: Christine Lagarde Aims to Expand Euro Liquidity Access to Prevent Crises",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFZVY2VaT0RvS1YzdnloWGJqYzlpSnZDeVlNVGdSVzlWal9wWURkZnVWcmg0bXc2UWg1djBaZjJ2Q2lwRjh2V1ppWGc2dEFYOTYxaFltNmY4SmY3c3FXRVFhN1FtZVBZLV9BYWtzaEV3SjhNbFptekhyR2FGZTBPdTA1aHdBVHFYYTdaUVQwZ0x5XzY1eEVMdng4QmZJbnAybmNxOTRRaFJKWDVuWk9tRjMxWUZJczJIelEzQlV1dXd5RkFpTmd2ZU4yZ0E?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:15:00 GMT",
+          "src": "Idéal Investisseur",
+          "thumbnail": ""
+        },
+        {
+          "title": "US envoy highlights Syria's energy potential as US, European ties expand",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfVTA1RkcwOUhfekxGOS1nWXduVWhpU2hrVVRkQ3F6MFY2UGRUZzltdDhmeW9xNk9lYzY1cFBISnZWNnJXT01VOHhDR2c2X0pQRko1eVduUzg3UVlF?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:08:20 GMT",
+          "src": "The Jerusalem Post",
+          "thumbnail": ""
+        },
+        {
+          "title": "BREAKING: European energy firm takes control of Acorn carbon capture project in major deal",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkV4Y1pkVVhaSlhNR3JnelhSWF9INWQ4NHdEaVhJZGFlWUFIMWt5eXE3ZjZIV21POTBSTGJUd3c4OXZLTEZUQkt5SEdLSjJOeTl2VFR5aDIzUGE0MVU3MUxTWDczX1A3QlozazYzUUtiRUd0dllLQU1XbjNZS2JTeENwc0NQUUtZanhibmwyLVAyaG8wMGExVTM4VE1FUHpQNk9rTy0xeVd5VHczUHp1QWNCQ2c4WXNSaUprUFRMaXJENjQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:40:30 GMT",
+          "src": "Aberdeen &amp; Grampian Chamber of Commerce",
+          "thumbnail": ""
+        },
+        {
+          "title": "Can Europe's data centres go green? Ask the Euronews AI chatbot",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHZOQjV6c0FjQTlsbXh6MkQ5QThlSlRrVW0zM1d0dFFyVGxCQ21ybU9uWEdxOWdKWldHcjVYczZXcWpxTHZScTQ5U203VnZuZnkxRUJkQmFlSVJwVmZuOVl2M0QxVkxnV3dNbGlZODd3Uk1CQ05JOTByems4M1RiVzFhWUVfS21EVndSWkNxVTdZb3U1SmRDeXpUVzVRQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 07:15:27 GMT",
+          "src": "Euronews.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "Can Europe's data centres go green? Ask the Euronews AI chatbot",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2JlZjdDSmdmdXIzeVZYSUxfU2l6cFFSMWE5VXd2TkJDS1ZzQUZQNWIweHU5QzM4M1hEek51bFIzMWdYWkN6Q18yRGF6X0dPOVpDeFYtbzR6RGlXMndKa3hENVc1SUN2VTVERkQzMkowTkR6ekFXVkYxM0JKcGYxOFY0T2JsaWk4MzhzU242dDllLTdEc1F3TElBS0ZmUURraks2RnBR?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 07:15:27 GMT",
+          "src": "Newswav",
+          "thumbnail": ""
+        },
+        {
+          "title": "TAP highlights Azerbaijan’s role in Italy’s and Europe’s energy security",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54WnB3YTFTSUJveGY1azR1Y3hZVURYaGgxQTZGZXV2czdKcEFwbmVlWE5fX0dSOXYwMEI2RGNzSzFFWGZLcmtwNEdNSDlfWUpKa2JpWlBzVQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 07:10:54 GMT",
+          "src": "Trend News Agency",
+          "thumbnail": ""
+        },
+        {
+          "title": "EU and Indonesia Sign Trade and Investment Agreement",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1faWtVNS1oVXYxTV8zM01EU2VHZ2FBVkJrMUtfWjBObndrVnZtbVlqN1U3cDNfcHJUOXZ3eFZWT3BMZHhFZUJUWUlEWEZPdGpJc1o2ZGtVa1ltVHhmUjI2cU1DUk5EUzRjU3c?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 07:01:29 GMT",
+          "src": "Impakter",
+          "thumbnail": ""
+        },
+        {
+          "title": "Asian stablecoin market grows as Eastern Europe shrinks",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEg1cVlfZEJiT3cyazJDWEVhcVFTTFBrUVNDV0JJV19hRlIyX3NaNmJ4WFRVcllxNV9uZGhFV3B5WHBWYUFmMlNVNGsyclBWWmRlZmJvYzN4djdETUs5V2l0SVBPZ2NaVnBodmZvY0FSYTB6OVh1NHlPU2JWWGFldThzOA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 06:00:00 GMT",
+          "src": "CoinGeek",
+          "thumbnail": ""
+        },
+        {
+          "title": "ECB invites firms to shape European tokenised finance",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEc4WExBRzBGQ0pBZlVfMDhpNVNPNXZBaFJHVHJDMjBtcjQxVGZicm5VYXFBNlBBU2dyQWtCVFdvUm5QV2JfZzdIZWhheFJybl94bFR1MlN6cXppWkExaUVDSmFPU2s2RHZXRXJDWmY1aXVCVnN5SzU0bTdKMFFhRHlYYzJtY1JaZlhF?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 05:41:17 GMT",
+          "src": "grafa.com",
+          "thumbnail": ""
+        },
+        {
+          "title": "Europe’s power market is flashing a warning to its economy",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2hobi1HTlBKMXRMeTQxQlFDcHJsV2ozb25RbkREbnZ1RGlDaWxQMkZSang2VmduTnhlQWJvQkloaDZXbTlWcmZVMW15SU1iX1FxM192SmZBUWlTWThOaVBxZF9HWDFmTHJQNWZTcHk4WjVSQ3E1VW4wM18xZHdaQmkyTQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:33:00 GMT",
+          "src": "The Japan Times",
+          "thumbnail": ""
+        },
+        {
+          "title": "French PM vows to fight inflation, climate change",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFFDRGh0NWN2QWlZdWlSTnUwOV9DZm5LdGx4dk9TQ3ZIOGRkM1lmek5kWHpPWUxmcUJfUS14ZmRralg1aVR2YWJIQkpyRzNmbDFXVEo2NzlPWk1hLU9VYUVaS3liaDlEVFFBelRaVEpERFNsdENyRkg4dDNQaks1SHhHMTdtYVpUTWFONXFQUDM?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 17:04:37 GMT",
+          "src": "Yeni Safak English",
+          "thumbnail": ""
+        }
+      ],
+      "КРИМИНАЛ": [
+        {
+          "title": "Dutch court bars sale of Ti7 in Europe for Land Rover Defender copyright infringement; BYD to contest ruling",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVk0tb0tmckphRVlLTk54cmhiRHpld1RDTHBZWnVxbmdzdkxQN3JmVVpJZFE4b3ZfS0I2MDlrdzM1Rk9vSW10MktnT3o4WlZLSG1DZmplNTg0cDNrRDNvVFBmVGU5M2lwR0JwNlV2X3JLdUNmRzBrQTRqOFpmeFA5VURMa0d1dHhYMVk5N0Uwdnl5MzVtYThBLW9NWG1wYWhtWldxNjM4aUVOWnV1aHZRUE90WUcwX1NLUklyOGl4dXluYVIwWmxNeFIxd2NiS0t2YjZSWmZn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:42:23 GMT",
+          "src": "Paul Tan's Automotive News",
+          "thumbnail": ""
+        },
+        {
+          "title": "Europe weighs 3 dramatic scenarios - Fraud, the Ukrainians failed, bring the next ones",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGk5YkxiTGVaTTdIZzNVQ29Ibllmc2xLNzlhNUtIMTFuYjk1LTdtSXVpd3VfVHJ2RExUaWhNWnhxSG8zb09QZ0gtVm03VDVsd012cDhFNUJOSUpwbURhN18yZThnMUdZZ0I3WlEwUFJzcFlybDN4bnkta0dadXdVRlRZNFhhWmtNZDBSeDhFaWg2dHYyb0N1amI3MTcwYU5WYUxTUl83RGhETmtuRjAxUlp0UkV3WWo3bHktY3FDbFBfTklKczF1cE40cGFLZw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:26:14 GMT",
+          "src": "Bankingnews",
+          "thumbnail": ""
+        },
+        {
+          "title": "AI hallucinations get Romanian lawyer banned from Europe’s top human rights court",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEJHOXo2b3RYMXMydDZTMUlaNVFDa01TLUFINWVLbGt0WEJzbUJlX3ZYQlZUaWlnVE5HcXRQTkZkcWZwcmlDOWptbEFhbHV3NXZDQTlubThGWUpxb3FRYnVQN083eDN4ZVFWRHV1MEZPdXZtcFlQMVc1NjV5bE9WZXBKemVJOUhNZUw1bmVJY2ZaT3BsekxnWjJaZWl6V3JsR1lV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 04:31:33 GMT",
+          "src": "EUalive",
+          "thumbnail": ""
+        },
+        {
+          "title": "BYD SUV banned: 'Virtually identical'",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWlkZm5YMlNOaVZ4cnViMW4xZk5lejhRR05hd2Nnb1Nuc1FBbGlJMkFhSlpvU3hOT0d0eFZzUGQwbjlvemdicEdITEpiZVFZUXZmWmJEV2tWS3pZanliZEpkS3RZazBlU2Q3el9BRHpnb3l1NHQyS1c3dTNqQ3Y0bDJxMmZhaWtQd0JjSk05ME9rcVlaVHVwdjVhaXZ2RUdn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:57:41 GMT",
+          "src": "Drive",
+          "thumbnail": ""
+        },
+        {
+          "title": "Iran files war crime lawsuits in American, European courts over US-Israeli attacks",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzBwaXNxU0ZBbU5BMEEzdVYybk5fcFB3eDFtN2MxenpQczhHT2haRWNKRDJyYUQwaTM2Z2dFYW9tMzJNbzFTNE5QMTlsLUxmeUVKWWJqbDhWMlR2M3M5d05PTDBCWWdGR3lRUzFYNHhzZEQ1akt4RGhITzlwNzhwTy1wUGI0anhZMHBGR3BTdll4aHlZTE1zT3NYajhMM1Rja2FTSnp3dnBDekpkbmd5aDVMNFRmYlpSdmNDNjRlVW85YknSAcgBQVVfeXFMTWc5OXBLLUhYSldkUFpBQi1XSXg4bzc2eXJNTVRzTUozdmJFX3FSTTRweHZXLW5KV3N1UE8wOW8xYzV1RUlCZW4zeWVSUVZlRGpkeC0xREJqWXAyTGxOMzkzQndzYl93NDVOQmxMa2Nlcm9Bcm53UXJPWDV4YzVCOXFnYWVEUjNPYnFXd2lhblc4c1NPMG1kSm1sZTA0cGw1R1Z2VmhrbElCQUh0YmcwdUlybG9yS0lXcS1yeldkaVlaaGd4LWhDem4?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 18:15:00 GMT",
+          "src": "Middle East Monitor",
+          "thumbnail": ""
+        },
+        {
+          "title": "Pro-European attitudes should be a hate crime, says Farage",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWU1RklFZC1BS1dROEFRRk5Oa1NZaXh0M1lvZGVkZjh1T3g5bUp5WXVGTjZLNVdCT1dYQkxZNi1QMXAyQ1N4R0l5X1ZFaENpb3lWdUdwRGlBQ1BNR0lNOGdVOVVfSzJkQkFpN21TU0pReW9wcDZJWU96em1rVzZweDY0ejl4NFdCa09KRWw0bXlYYnlS?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 12:26:47 GMT",
+          "src": "NewsBiscuit",
+          "thumbnail": ""
+        },
+        {
+          "title": "Greek police fire teargas as tempers flare over pensions",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzdhZzFDTFZBV1pxbE5icDl0SWVOV3pSRy02SzNkamdoVTA0bnNocGo3VVRpU0xDYWt6WGNlOEVhRl8wRjNlQk1tTU9xbkRPMTlXQjJZbU1JSTZLVEp3d3hnVGxvSzZJSk5iQlpnQVRSVDEwaFd5M3V4dGd3ckdmdWhsald1TWRXQWR4YURJaTFFRTBaUDFEejVkNA?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 11:58:47 GMT",
+          "src": "Yeni Safak English",
+          "thumbnail": ""
+        },
+        {
+          "title": "Dutch court bans BYD from selling Ti7 SUV in Europe: Report",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlNjSmdDNjlvVHB3S0ZFV1pET3NCMld4cHpEaVNXTkt1QU5lQzhSMV9NbWZIdWlIU1VZNjF0LWZCd0hoS3YtTnhkMm1ld3h1UllPRGEtaDZIX0Z3YVduLW1haDdUZ1JhbXlidGdxbTZ5SDNhd1lVYkgzMWlZTE85SGotMUQteXFJSWQ4ekY5WEE2ai1uMF9nUlpNMDBUNWZIOU10Ylln0gGrAUFVX3lxTE9pWGNUZGdCRHA2SGgwN1kxQ2pBaHliamNTS0tKcE1Gc3pEX18xNjdCZUhLZnRKR2tGa1h5UlF4YnZmeGRSdkU2RGc0c0t6Vkl2TnhQRHd4R1E1WHhuWlk5V3pRUGM4QmNaNk9fZFZYUDJBc3JvWUpEYjJ3Z0dYUzVVbG1hd245UDhkdm9vREZkbVZRa3JDWlRONS0tbTI3QmU1OFcxbHlwOEVCbw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 09:29:59 GMT",
+          "src": "Autocar India",
+          "thumbnail": ""
+        },
+        {
+          "title": "Court Bans BYD From Selling Its Land Rover Defender Copycat in Europe",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzg0VERwazlwOWtCcHlzWFFXYmtGYU9uVmZFaTYwXzVXMGtDNGRZdHhSUVR5UGZKLVVwMjNmdTZUaDVVeHFyU3NiTW9udjBObXdZZFVQWXEzN3dGSnpabGJaX3E2RGxjZVpQMXY5RlBTS1JHNUg0a0dIOTJpYzZZa2tQZEtMQm1vam5qUjdXN182TWNuWnBTaGcwZ09ocXB0UTFySTZCelFRdkNDTTB5eFRaRG5wUkU?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 23:16:31 GMT",
+          "src": "autoevolution",
+          "thumbnail": ""
+        },
+        {
+          "title": "BANNED! BYD's boxy SUV too close to Land Rover's Defender, says court",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUF3cjNSNUhwaVNmTk9XaDJSaFpRUzE5ZVhVVklQaWlPeE51MDZoT2V3eFlvUkRzaHJMdXdIZkZ1ZHhtT1ViVUgwa3QzSDhFX2xpR3FIVUpPRVpELUZyLWZGdF8wSlg5S3VnU1BiRG9fUUU1SHlpYTJTYVRzU2NIdVpzUXgzZ3hyX3NBUQ?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 08:47:48 GMT",
+          "src": "Auto Express",
+          "thumbnail": ""
+        },
+        {
+          "title": "Protesters and police clash at anti-government rally in Berlin",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTS03WFl5VXFvbU5PZ0p5S1I1bUcwR2otSnJhTzdoa0Jwb3A4S2ZOLXloY2pZdFl6N1JUYk4yalJBekpiOXFpZzFyZ3JFMDcwMlRIRkd5bmxuMmp0ZW1iV1Q0VlpyX0tXVWxVd1p6eW9SNjBMMDViVXNzeUVVZlhDcXNKd01hcVpNeHp5VEtWX1c5OG1teThDa2pCZzVDODh0aVVv?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 07:19:19 GMT",
+          "src": "Yeni Safak English",
+          "thumbnail": ""
+        },
+        {
+          "title": "Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXRzazlKemxGNnVvNDFxSnpERVBBSldhcU5tdDMxT25FZE5zYnNyLW1IcVkwWGczeWUyTllaNVJSZTlnY2ZMY29Za0xqUWdBQXUyRHhaVi10THNISjJldVljRl8tMFQwMzMwOWE5VHlGdGtBbHViY25kNDBycFlXUVJiTGNiLVRHdG1hSEtvVU4zTW5UNzRfSG40ZVJta1ZkUDlWT1VLMzhRRkZ3NWNpNUpNMUhqLVRBVjUyQWRqMnVPREQxdVFvQzVyWTVsd0JmUkduRWF1eFdjdGhQZmfSAeQBQVVfeXFMTnZ0NGN0SDdIM05KVFZYc0tNdWdWa1gyRk93S2VnczQ5dG5EeWtlbFgwa3VLcDRmOUswV1lBR3hzT19ibTROWG03VnQwWkU0eU5tblBvWHd6X3lGMGUwNlYwTy1OcVRwRUZBanE1TGhFY3dYd19fR1p1VUJwZEttd0ZGUENFYVNaM2dLdjVuWWItakt5MjZEcnRpd2R2MGp3UmR5Rmp4Y0Q4bHR2VEdiakZwSWRoakVTbS02b3Nsa2tMSWEydE1ZTmM3aGd1TzBwMWY1OE0wLWJoaGVacEo2Z2xpTUhE?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 03:26:06 GMT",
+          "src": "BusinessLine",
+          "thumbnail": ""
+        },
+        {
+          "title": "Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQndCUkJWZ0Y1N0JSeERKTGVrQ3VrcTY1bUsyR3lmWTRUMVFjZVplT3dBVDhOVFVpaXlGQUpXeGpXSEZZLXhsRmZuZUFuMU1hREQ4bUdNcE9ITHE0ckZxeV8zODBoQUd2alBrQTA3TE5hZmpTV0hBTHM5eE1DckM1c3YtS29LaUpGajluWmdhNUdtZGVzRFhtQ1hmMTZNSkJwNnNwYlJtNmVZVFdLMzgzZS0xQzlZVkZiY2Rr?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 21:57:31 GMT",
+          "src": "Reuters",
+          "thumbnail": ""
+        },
+        {
+          "title": "Myanmar guilty of genocide against Rohingya, says top UN court",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlJ0RG4xVTlpRXNIV0c1bW44R2dSS2g3X3gtYVlKc0xocFF5c281bHdJWGFJYXNUU0x0Z2s4QmFlVTRKX01LcXdlcW9HOHNhOVRWN3A1QTJuNV9NZ0hJMnZSWTB4dGJVQk1UT183Z1F2Vld3ZzlieC1GS3dmZ29WM2lMUnM0d1hJRlZWZ3N2NmVHM0hQZnAwVzR6bWdWY1gyM1IzVDRZcjVMWkxUS3c?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 00:35:38 GMT",
+          "src": "The Jakarta Post",
+          "thumbnail": ""
+        },
+        {
+          "title": "Roundtable discussion: The Court and the Council of Bars and Law Societies of Europe",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDdQTXlQM1poS0lYTllpLTBNb1A4QzE5MWs1cExEZWI2eHR0MzNuMFZiQkZvdm1LRkZuX3FYU196WnUxQjk0V25lREd3SmtOTGljYmlKU05xQmc1aWJ5SFh1MDdvdF9fM3VFaHM3cWhUNjhoYTZCNUxmaC1vcE1QRnlOS3pzelNvY3ZHTXQ3cFFPLUN6UDFqRmJEdjhnX1ZZcWs2VVcxRS10TEpxNllV?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 20:06:59 GMT",
+          "src": "ECHR",
+          "thumbnail": ""
+        }
+      ]
     },
     "thailand": {
       "ОБЩИЕ": [],
@@ -23,13 +800,578 @@
     },
     "russia": {
       "ОБЩИЕ": [],
-      "ЭКОНОМИКА": [],
-      "КРИМИНАЛ": []
+      "ЭКОНОМИКА": [
+        {
+          "title": "Поступление налогов в бюджетную систему РФ в январе-октябре выросло на 11%",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUzJrcjk0aG1CaWJncEdhc0NYVW96ajBmN2N2MDR6QndLcnhacnFJRzVNZURnbUZMVlZZZ2ZJRkUtTFNLRVZhVDNENnVOUGM3M0HSAUtBVV95cUxQTXVINUJDdVJUdFJGMkNzMVhKUXIxWWNycGxuOUV3YjBjY0xqRnhWUG1WNEJHTlBYZkRtMzNIT192bFozbWE1S0tDblE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:51:00 GMT",
+          "src": "Интерфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Налоговые поступления в бюджет РФ выросли на 11% за десять месяцев: ненефтегазовые доходы стали драйвером",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOanBZb2YtNjZSZGVlaUV3cGttZnhNTDZ6bFEzVTRJVWhqN0swQ2xSbFFQazBVbzlua0tGNk5neDV1YkgyaHFYYjZKaXpnQ1lCTGxZTFJ6dGpjSEFxNUpqbmZLWkNsS3FtT3dfWmRwOWxCc2Z2dmVIeVRUMlUwZUlIZWxvT3loRk1fTVNUTG9ZblAxSnNXRmlOZkU5eHN5UQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:47:03 GMT",
+          "src": "ProFinance",
+          "thumbnail": ""
+        },
+        {
+          "title": "Платформенная экономика, ИИ-агенты и малый бизнес — спасение или новые обещания?",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWU1YS0NIbHVQdkhBWl9IWVV3YUhKQTBIWTllOUZ1ampRWE9mMlZzSkdHY3VDRUx5UkFKYmNmWU9HZHlpbklFUEx3VGdpQ1RiR1IwSVVUcVJFbXdGR3lPTEEzNXh0R3cwY3JhSlJVNjdvZUZuLU1Td3M0aV85Ul9jM1dBeC1YNmlKSlo4dzRiMG53aHVnZUVCWjhDVlpfNjhDX2lpcnRRZWFzTThs?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:44:14 GMT",
+          "src": "Пульс Хакасии",
+          "thumbnail": ""
+        },
+        {
+          "title": "Средний курс продажи наличного доллара в банках Москвы достиг минимума за неделю — ₽85,215",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE5Ob3FxNW0zU0tvQjZkQ1NZbEVORzZySVVnOVB5aXY5RjRSNmlsTU43LVJZa1BkSkxweThKWGxOWjI4dUNDdFVPeWUyTHNMaE5LMDZPVWFyYzk3eklZUTItdk9ZOVlNZzhSZ1NSUHRPck1iV3BRY3kyN2JtejJzX3ltLWJlbUNJazhKanRkcmJYYVJJWW5rSWNnZDhaMnMyUk5rZ0xkQnQ0bVdxcmNB?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:37:24 GMT",
+          "src": "Marketpower.pro",
+          "thumbnail": ""
+        },
+        {
+          "title": "Бюджет-2027: на модернизацию коммунальной инфраструктуры из бюджета Мурманской области направят более 195 млн рублей",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOWVGRy1oSTJFVzluZENvR2ZfcUx5LVczeDNfMmJ2MF8tSGZYRlFvUTRGNmFxQ1YxbEZjYXgxYXEwRXJzMmlHT0p0NXd0TkZOYU9OVFM0ZkYxWVZxRFpaSVFlckRVeWhlUTZPeW1zNU9CN3h5bGtibC03VHdKTzRVVnYtMDRFbkpmbzdkRVNQVFgtbDRRT0cySm0zc1dvY2s0UXl2VG0zU2I0aU1xcURBVmg2TFRHOGdSeGd0VVpCT1hJdW5kTWkxbFk0NTd3Wkl2cEROa3dSRDl4TWl2ZWtnel9qaDU5ZEdnNXdySkRHUVhHd0VVOGh3OVlseVdJSmYxYndYMzF0NUJvWFFROWRNTW5kRUhSTVZaX1E?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:30:30 GMT",
+          "src": "Арктик-ТВ",
+          "thumbnail": ""
+        },
+        {
+          "title": "Андрей Дубровский: «Запрет продажи вейпов - это курс на защиту здоровья туляков»",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnBrdGRvSTFmNm5nVEZRV3o0T0QweTN2S1dueWFyN0JiaXZvU0tHU1ZXTFRoTW42eldjSzQ1ZEwwVDl4OVYwRzlybVc2eEo5MmYxakdNZFVCSE44c0poYThfMlZabGlrUDJ0TWZyLVc4UHV0SlpPU1hxNjYxekdYQVFIRTh6a0pUZHUzZEVadmNjN0FKQ3VfamFraFlFaE1Cbkx4UlZEZkowN1nSAbABQVVfeXFMT09yYmZoSG5vbG9Rc09ZNWZwWm9Ic0l6RkRHTE5xZlVMSG5FcTduWG50NkhfU2RxU2YwODEzUXd3ZDZKUTFBVUNGeWZkTHlUaHJBZUg1bU1fUU9lWnFFT3lnRjB1SFRibFBKMU13Unh0MEJMZTFya1NxcmJuaUFZWDk1MGpuYm9YRzZKUk9RRzl5bUc2eDAxRFhsOFpnelNUblRUckJfeXBnNVhLSzV5Zmo?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:30:00 GMT",
+          "src": "MySlo",
+          "thumbnail": ""
+        },
+        {
+          "title": "На ноябрьской пленарке Заскобрания Прикамья депутаты рассмотрят региональный бюджет во втором чтении",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OUk9FdFlyZUdYcndCUXliYlZUejVGcjM4SnBveXpHYld6bHhZVlBJb1hIX2tQUDdDUVY5NnRsUDFTNVlBdU5IV0p1Y2hZbC1hbjcxaQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:25:16 GMT",
+          "src": "Новый компаньон",
+          "thumbnail": ""
+        },
+        {
+          "title": "FT: Кошта предложил сократить раздел бюджета ЕС с оборонными расходами",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTVHbDJfdXIzWFNVaVphbzVYYnZ3V0JlMnFmWUtKTVFiMEQ5ZWVBaWszYk53eGN4U25HQmp5OEhDLXFuRXE1YmdKSzFNWWk2UmwyY0c1QkF0UGs3ZTh2YUtld2NuU1VuTU9TVnVHcEo3UlpOSjAyOVh4QWkwQldqYw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:22:05 GMT",
+          "src": "Ведомости",
+          "thumbnail": ""
+        },
+        {
+          "title": "Бензин, тарифы, НДС: почему ЦБ держит высокую ключевую ставку и когда её всё-таки снизят",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV09PUmZYZm1Xai1TYTR6dzJ4ZWtSc1FkYWFTTXNmbEI0MkVtVXF0Z3NxblZlMlI1R0x2LXJLcU9CdDRXa2prTUZyWWxHM1ZNQmptU1c2ZkVvTnJpX2pvaE9DQnVSSEZHMjI4eVBYZkRUSlktNE1pTFQxUHh3R040aHNVMW9TSENhS1AwcWlXZDE2V3hkUlFwRFAweTFBMDB6cWxEMDh6MjdiaW5kNE1pQlZlVk1jd3Zrd2ludHgwLXbSAcYBQVVfeXFMTWRjRnVwVmZEU2NHX053b0t1cmt0ZWdyODA4NHpSQ3Vib0VKNTdpNmduNVRnd1ZmWFV1dTNjNE54LWxpOGlwODlWSE1XVjB6REhTZzFBOWlSZ0U3bGxlRDhKT25LOWRZbjBlZGdBNmRsbWdZNDlmc2NzLV9SeUEyRF95cHBxUG5Jd011dFVlV3JBLS1TWE9rcWwxQ0ZfNXFKdEdzTTR4dHRHYUdCdnlVdldQQjR1dU5HRmxHNE1sV1Fnb1RXclNR?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:20:37 GMT",
+          "src": "78.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Средний оптовый курс наличного доллара в банках Москвы снизился до ₽83,05/₽84,65",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTFhaEdhQ2dhU2EyUE9kTFVZb3pRbm1iT0ZKRUFuTVV6dUREM3RfOVY1VnE5V0s4WWpLS2c2T0JtMkd0Ym12NmNlTXkxc0JnUEFaZGUxTkdMMHlNYUVPYjVzMXJyVGE1TkNoVzZsWVRRWjZjRmZsRWpiOWJ1LTZSdGloVE4yMC1NWlVqZTRqTkVPRXlvbFRfWURfSTV6OERFeFlZTFhhMjMyVkR2?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:18:24 GMT",
+          "src": "Marketpower.pro",
+          "thumbnail": ""
+        },
+        {
+          "title": "Средний курс наличного евро в банках Москвы снизился до ₽90,42 и ₽93,97",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmlxdTNId1RqRHlyei0yN0luRnhlaTJjTzRmcHhydXNqc0pGTFl6dnhlSURyd3JGREQxYk5sRVI3WDhVTmdLdDI0VlFjeURqQ3pEUGVna1A2N0VOUjFqZ0RJdE9yejkxZ1R0RnVjaDV5NC1RcVJFVGxfbU9hZm43OGhxOWlkdDR3OV8ySG9CM29kcmd1bzd2M1FVSmlxYVVm?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:14:52 GMT",
+          "src": "Marketpower.pro",
+          "thumbnail": ""
+        },
+        {
+          "title": "На инвестиционном форуме «Россия зовет!» обсудят драйверы роста экономики, искусственный интеллект и развитие Арктики",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hLUd5dmhyUXg5N1NfNlk5bHRiM1lxeE5yOFpLcEZjazJLUGhSRUxNcGxkWE45NC1VTVgzOVNLeVRnaVhMM0Z4RVkxdWZEUzh4N2NV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:11:30 GMT",
+          "src": "Областная газета | Свердловская область",
+          "thumbnail": ""
+        },
+        {
+          "title": "Курс Bitcoin на криптобирже Binance за 22 ноября вырос на 1.75%",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ZtR25wY0lJdjdSUWFQNWdWeDhVeU9YS2Q1R3pBOVJIWUJvSk04eFZfVFNvaHlIOVhOUU1YY2hLSnVNS3FJa2dWc2JCVEo4UlhSQkdvYklWMDF1dXo5ekhrS21ienBya1NHNnlQRmN0VkRjX3JPaFV4d1Z3UWFjMU41dTRJR05LZ01ORUF3Wm9tLU9n?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:02:12 GMT",
+          "src": "AKM.RU",
+          "thumbnail": ""
+        },
+        {
+          "title": "Семейный бюджет в 2027 году: точные суммы маткапитала и повышение пособий",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnhJeDZPWHdsdTJMSmRfd3pMVVdOUHpVbGpMUlJKMmVfOW9pcXFna0RxWk40UTd1SllBc2pCcTZVc0RuSUkxUFpDR3VVVGR6anBNLXdmeXpwUE1VVmtnSDVIU3g1NHoxbzhWZzg4aU5KcUwyY0V6cmNQcnlzR3dJMmdNWDRjZUF4VmRpaUx6d004MjBtS0djdm5XeThvY04tN1NOblNNcjh4WDQtMExN?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:01:48 GMT",
+          "src": "Районные вести",
+          "thumbnail": ""
+        },
+        {
+          "title": "Цены на нефть продолжают снижаться на фоне распродаж на фондовых рынках",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1NsSHZYaE9JNDMzbHB4MjdQVmtHcE1Ib01QakxzSmRwT1BXM2U0dHlia0NPRl9HMTg3eW9DeFRtN0xaRFpsWHE1NWVMM19sZkJQWU8teV85RlhwbExvVDlvMGwwaHFFMk12NlJldWZ5dXhJWDc3SW5FSzBoZHJ0clFNVk5xUUZhZnlRbDU4dHMtLTNFOU5hRjRRZ1R2SUx6VE45SFduUGNUaDlKdTFJUlpTbHBQcjZWTlE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:00:26 GMT",
+          "src": "Neftegaz.RU",
+          "thumbnail": ""
+        }
+      ],
+      "КРИМИНАЛ": [
+        {
+          "title": "На Ставрополье за тяжкое преступление суд отправил мужчину на 16 лет за решетку",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlZ0Rm5XcU5DOXQ2VXRhYXJpczdIazNGM0NGSnRVSXpoS1djRTgtdzRBOW9IdUtDVTB1aVFUSzJkZG5ZMWM2S2lHemdWTThtTVF2TWR1eFlLVGc4UXc4NWpiQXdJOFFRTDRZMkFMeEJlbWNnOHdzOHFreS1oN09TMUtDVm5nUEVOd3gtbmFWck4zQWdsT1pzdzhrTk1NbjRGRDNwLXU2ZUUxZExNWE1RR3Rn?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:51:13 GMT",
+          "src": "Вечерний Ставрополь",
+          "thumbnail": ""
+        },
+        {
+          "title": "Восемь татарстанцев пойдут под суд за незаконную банковскую деятельность",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWhQMDFzZ1NQUzdya01sU3U1V253Y3FLWWdPY1QtRVVmN2JyTFhaS2pxX2plNG5wWXhnRVk3UWhndkVjVEx2T1NubEpVSU16NmY4NUNKVnNRVlJQblRkVkRHOTlVeTRzWWJ1M2s5RkJEcWtfdjc0aU5XN3dPY0pMbXExVlFsNmJFanV3VHJyejl3Mmk0amNyZXgyeWFtNzlJZzYwb2pJcUU?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:49:10 GMT",
+          "src": "Газета «Республика Татарстан",
+          "thumbnail": ""
+        },
+        {
+          "title": "VK и разработчик «Макса» через суд оспорили санкции Евросоюза",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEFDbHVCbnJCNG50bkxJQzBBSk1UUjFid3c4RFBnNl95dkdQMVZWRDNWNGJHVzRsV2Y1cGpWS2FVcmRBWDNhOUlJWHc4eWRJNFN6TUcxNEdEaTQxcGV2bW12bUhzNzZaWG5GNF9OMDhXdEt5MnVZZkRPakpUeWlvWUE1WUpvemlySXVTaUI2Nk9ydXhGLTZFSHRiYTNhZFlV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:48:00 GMT",
+          "src": "Реальное время",
+          "thumbnail": ""
+        },
+        {
+          "title": "Приговор по делу о падении трибун на матче детских команд устоял в кассации",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMLWJPNkwxdXJoUzB3QVhadkpQcjRpZHpRUnI0RFZGd1dFLVJQUHRuNUwyc3BNZ2kyaHJtV1VOTmExV3FuelN6VDhMbXhBWWtNY3Y4VVltSjg0alB0QWxRQzkwSkxDa3lxbWc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:44:56 GMT",
+          "src": "РАПСИ",
+          "thumbnail": ""
+        },
+        {
+          "title": "Происшествия 16+. Выпуск от 23 нояб., 03:00",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFBQcXkzdHlHWHA1M3ViRlFwcjBkeWw2ZmUtOU51MTRyTW9mb3Bwci1UT2hSUEtPWUxuM2lrZjY2Q2pyOWtrdExQdllGTTRQcDk2dmVycVVZZk9lLTZaMVZPYzc5ZU94Tm9MWXpKU09felBaQ2x3NXNoWVdtbzBmVldlSkk5cFE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:38:52 GMT",
+          "src": "78.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд отказал «Криптоюниверс» в возмещении НДС за майнинговое оборудование",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTYVhNWjZPbkdRWjhMVFI4ZnFObU9oVG9vOS1HQlE4THdnVUFlcEU3Y3ZSem91NE9ZOHpLaUxxRzU2M1J6RDI3V1EyUVRYWDl0V1BXRXBjbFhJQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:37:27 GMT",
+          "src": "Энергетика и промышленность России",
+          "thumbnail": ""
+        },
+        {
+          "title": "Зеленский подтвердил причастность Украины к атакам на российские суда в Ливии",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2UwN3Z2Nl9YeE5vQlY5cnozUjZhR3Y2Tm5yRnR5VHVyQWZfRW1vVkhoNnFFLXJvQ2xSVlNZQk1ObkFWUFd1RHRVVlJUT0JpeGxiSDhQaE5ydFYzUkhudnBGQTdITjROMi11VUh3SWtiWVA4Rlc5T2RkMFQ4MjNlOEZBOVp5eFJ3MWxpcE9XQWRrSmdNNVpNOEUxYnkwRUREMGxMaG5EMA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:34:42 GMT",
+          "src": "RTVI",
+          "thumbnail": ""
+        },
+        {
+          "title": "Жительница Ставрополья стала фигурантом уголовного дела из-за покупки мотоцикла",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vYWh0Uy1UZ1Z5Q0U0MS1McUpUTlp3VldrRkxSajhHWm1KMjR1NjVXd01KLXd3UGVQdkdhalptSk5Nbmptc0poNzFNeERRZ3fSAUtBVV95cUxPWFNXekhOSWNsNTU4OTFlS2thZ1F0STU4Z0VSVC1IZWc2RmJheGxCdWtXY2JfY0tyLWRpZ0JyNkhiTDVzcjV2Qi1NWms?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:34:00 GMT",
+          "src": "Интерфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "VK и разработчик «Макса» через суд оспорили санкции ЕС",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZlNsRU80THJHbjZFMkVwbDY0WHhmWjZqUFZvaUxfb3BoelBSNDh1OFRIeFhicnhJckE2cERSc0JYVkpjWWhOMkZUd1dfWmJ5NEdmaNIBU0FVX3lxTE1xb2JUOGFTUjJEZFpBU2hzUVBSX3lOQ3I1QlhRdngwOEkySGdXZ2ZxMy1BOUVLaC14aTAtcU1tX2hyYWt0R3M4MThrSnR1QXZRb3hz?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:31:00 GMT",
+          "src": "БИЗНЕС Online — Новости Казани",
+          "thumbnail": ""
+        },
+        {
+          "title": "Сотни тысяч за пустое место: в Югре чиновников наказали за исчезнувшие дорожные знаки",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXpPMENBaFhiN3hXaVY2bWU0Nzg5NXBGSGhHaHZBUEJLcXJMZWM4eG5TZWJPSm1zU1hvYWF1Y2dGZVAtbzB3MWktcEJOX2diTUlSZk1SbWZVaVN3ekY4cVNIUEVrdkxzOUxMbm1UdWpxbEozRGlBX3kxcFRDYm44WWoyNmpCc0lmUENSdE91RGVpbWtILW83TUpLXzgwaGNHMUhSR1Q0ZWVBVXlGdnpDc1J6UHVWeHB3OHIyaWdHUUFpa0tHOWE5ZjZQTEg3Zw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:27:05 GMT",
+          "src": "muksun.fm",
+          "thumbnail": ""
+        },
+        {
+          "title": "В ХМАО суд оштрафовал мэрию за неправильную установку дорожных знаков",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zWnpiY3l5N09RQnU3SUFsRWs2dC1EVmxQajVfVGFVclRYYjdRd3RvRTZZNGxScHEzY1lwcmx4NWVIbS1tdTNJ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:27:00 GMT",
+          "src": "URA.RU",
+          "thumbnail": ""
+        },
+        {
+          "title": "В России против журналиста \"Дождя\" Дениса Катаева возбудили новое уголовное дело – о военных \"фейках\"",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNDdYWjMxbXVmVGxrYUZSUndHdV8zYUd3ZEhVaXY3Y2RKVE1PWXBUc1lpV2dNUTFUbFpKSWRTVkZ3dlE3UzE4UnYxMDZ5MW1PM3lMa2FQWEpGODM5Q0ZwaExKNGl1Y19yXzhCTnIzTGdTUkVYNGxDY0ZKUzjSAX9BVV95cUxNZHM1SXdxVWpCV0J1ZE1WQXlvdEctNkdqVzJLZmdQYW5NV3NGNS1Nb2dLdHg1T2IzZlpFZm5Bc05BYzNpXzJ2OFVqU1VhU05FdDcxejNFMDU5LVJVRE5fUnh4WkNSeklvUHdBZjNfdTNEYUl4V3lORTNBanZhM3pr?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:22:59 GMT",
+          "src": "Настоящее Время",
+          "thumbnail": ""
+        },
+        {
+          "title": "Экс-менеджеру «Интер РАО» Карине Цуркан заменили колонию на принудительные работы",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVVSb0ZMdlpkeW1mdTFVOXliNnNvNU1BWVlGSzk0bC1sb3JLRWtwcEs5SUxLOE1tSnNhQjdqRVc3RmN0VUNPdzFKZjhVWVZKRXRCeXBwZ1JXa1plSEszM2lXTDk2Z2VTM2NGeUZVdkw2RkxHZ2pwd1VmUThJU1B6cHZCWVdESi1ucEIxRmxHQkZxMDBGRXBHTXQzNEhlX1JTWTMwa0xKQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:21:00 GMT",
+          "src": "Эксперт",
+          "thumbnail": ""
+        },
+        {
+          "title": "Полицейские задержали участников группы за установку сим-боксов в Петербурге",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZrNUstLXV5c2NlM1ZLdjhGNFNzSVdHTUhDTWRaNUZ0MWN5S2FYOV9kRVNYbU5mYmlnejQwOEJyVGdfYS1sR3ZpUmc4MjZkY3NTY0hCRC1va0c5VWFzQlI3THdGV2lsYU0wMWxOYlo3ZUVneEtUa0FUR1BYZzVRUTd4UDItYzlMVHhIeU9DSUlmOHhWaFA4LVA4TlNCUjhxbGZQbFZjQnR2WE9KUFUw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:16:24 GMT",
+          "src": "Газета.СПб",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Пензе задержали организатора незаконной миграции",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDVnOHdyVVF0NERIeWlDM25zOWlxNENXdWFEenVaOS1YUjJ3WGtsc1NwMENmX3pkTTdvVjJPR1BDUVktZXREcEZEd0JGOVFrVnRMbkI0RVV2Rm10NDVDZlp4NTNqa0NrRDl0SVpjMkItTGJIX2lHNHVKbnJvSlBPMGNlR1lGMkFWeDU5LVd1cU9ZTkJlOGJCbDNQWDc0M3ZRaDkyT3ZoZE9MUQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:12:57 GMT",
+          "src": "ПензаИнформ",
+          "thumbnail": ""
+        }
+      ]
     },
     "barnaul": {
-      "ОБЩИЕ": [],
-      "ЭКОНОМИКА": [],
-      "КРИМИНАЛ": []
+      "ОБЩИЕ": [
+        {
+          "title": "Ухудшение погодных условий прогнозируется на территории Алтайского края в ближайшие дни",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamJnQmNHUUhXREZlbTZtVU52dDNRdFNGek5USFdqT0hUd0N4TE1ONmV4ZElTUzRvMGdFNzkyLXkwLW1LejZiRXRlbWpfd0tERk01cjg1X1JXRVAwUUdEd1BtYjUwUXNyVFdzbzhtUzlMNndtTm80TlI1Y0VqWEFEYTgyWXJ5LUJKV2FGOVk4amwwQjhtOGNleGxXbzZnMVpUZEdldVo4NTZRalpuRWtDUDdNWHZCUjczOWFBNGJ3QTRSaWdM?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:47:23 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Уникальные точки роста: депутаты предлагают усилить поддержку туризма в Алтайском крае",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWVoSnR3dlRGcVZiN3lmTmYyNDB3amc4TmtxcjlSWUlfeTR1VFhuaHJaZXFyaE14QnpTcU5rcXBtUzNIalhwNmRjMkJjdjNrdlliU1pJX01qcGltZnBXbm5kdnpZcmx1UWlrNmU3azZJdFpNNm85VUhON2dOcW01bm1QRGluTmxUSHZSbmxnRUxVTVlndlpaMDAtczkwU19ORk81UXA4RmplY2hwODFYZEI3T0pOc0RPTmfSAUtBVV95cUxNNTd1TWRZdjZFTldmVnBPQWs4bzE5eE1XTGhkbFhWY2xlbWFSTU1EQkJaMFBJMzZIRzk1Q0pQQjI2Q0NiSWlZT0pxdVk?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:30:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Дожди, мокрый снег и сильный ветер: жителей Алтайского края предупредили об ухудшении погоды",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UYll3bm1pbTBhNVZzbjN1V1JTamExeVZhWFdiOXNDRDgtYW9RMXBrck5hNXNWQXVLSHJVWWhtVUlMdjFIdjNnd3JEQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:27:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Географ Алена Стребкова защитила диссертацию на тему аллергокомфортности Алтайского края",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83MUtHZUY0cnlmdW1rUFIybU1kRmFWSG83RVpEemFEdmlSYzdZZ3M3Wl8tb2RtSXdaNUpOZS1BSUVaYW9oUVA2LWFfd2FTbW04Uk9JdA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:15:25 GMT",
+          "src": "Алтайский государственный университет",
+          "thumbnail": ""
+        },
+        {
+          "title": "Алтайскую Денисову пещеру готовятся включить в список всемирного наследия ЮНЕСКО",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY19lWWJNUW1TRS01QWZrQnBSanQ1U3VXaGJjdGpMTmhUSm1tSVJNR1JjNTdLTmFidHN3Rlp6b3ZSRi0tdDdPZVFxV2hNb2hFdjBlcnJDMTFQZUdqRlhYcWN0TlB0TndFN2VZdF96UlVpUXVneFZCdWh6WUtia0hYSVFENE1CZFgwVFlsWjFEenBveXgwWHpxVEtSMS03U0xlNmpqYWN1VnIyWldUWjRLN2g0T3VkYS1YVXBHbtIBS0FVX3lxTE13VzN6TXBUZFdkdjFVLW1MRUtnTGUtTHMtTk1qZi1FRGNQSy10c3U2Qy1vMFpzMlJseHRIVmUxMTlIY1Q3eGtRdERCRQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:15:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Алтайские транспортные полицейские завершили расследование мошенничества на 1,9 млн рублей",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWVdHc01pWGFtSmtyWmtDd0VJUjktWC1LX0hZUml0X3pKOXMxdzFUZVFiYWR5bkJJSTVEeHJUdV9VakRocVd3WmNSUlhGSHBPT2ozaGdMV2QwdWg3ZmhIdzZpZ3ZwVjNndHkzOThhOFNtVTNUcVdtZW1ZN1R4QjdnTkVYVElvb1F6ZERpRGhWWjhHVndvczQtbUJIRFg2bU5EMlhLVi1mNjJMc2pEM0F4VFNXVWd6WXMyTjVibmxtOU9icjk0MEtMSE9iX3ZLUkVLY1VJNURIRQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:04:57 GMT",
+          "src": "МВД Медиа",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Алтайском крае объявлено штормовое предупреждение на 24 и 25 ноября",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlJCdDFCeGxUOE5FdTExUS14VVlKdGUwNkM3RW5jX2ViR1hJOWxkOTl1SFM3VnFRb0puenc3RkpjVVVaMjhaYndpaG0yb3RuRXJpLXJUVmxabTdGY0UxbElaOWRvOVFOeWRUMXZIVzA0bzNmVWZiaHNYSjhkMU42Z08xSmgtY1htQ0swOGJ4eFhvdVIxbTI1TkR1emgta1VzX1FqcDVtYkpKcVZNTElvZS11Z3FfMEhFaDFr?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:57:06 GMT",
+          "src": "новости Рубцовска и Алтайского края",
+          "thumbnail": ""
+        },
+        {
+          "title": "С ЕНС жительницы Алтайского края взыскали 955 тысяч рублей",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEhpZG42Z2VLMGl4al92MXF0SVFzUHJieUJQbWFiYTRpMkIwcnItVllwNVZFM3ZmeXZzNzRsRDYybV9CejhneVRfVUdhWE45MUtMMzJ5aExrUC1iVVh6ckFMV2N3eUxFeVRiWGU1Ni0wVG96Uy1VdnBJWjZFQk5YaXpDUk45Tzk5NjduUlItcUVpZU5rejA1SGRjMGdlWTJNRkRQU3JpYkE1R19tOWhXR3NxN2R5WVZUWXRUZGU1MlJhMVV1cnRV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:56:07 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Как в Барнауле реконструируют общежития аграрного университета",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbk9MaVZ0ajM3VFNyb1pCa01Gaml6bmZKckhjM3BLYS0talc5SDYtTmRkX2NpNldRZDRsLURkTlpFMjFwc0VVZUtFazB5bE05T09RSlRJcU9UWmk1eExOMXo4aTA2R3NHYklBTEs0MDJuRHFQaVp0SlZPUFZfRVFJVTVYRThfRzI0cXFhNUpQbEtmSlJMcjI1WVBVUktObkx3VUE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:36:56 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Московский кабинет Василия Шукшина привезли в Алтайский край",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43VnhkWF9EQUNzbjVBa19COHlqaGN5ZThtbVV6VHBremQxZ3UwRFR2UHlyekt4YkRFSUU0bF9Ba3dkVDdv?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:26:00 GMT",
+          "src": "Катунь 24",
+          "thumbnail": ""
+        },
+        {
+          "title": "«Трегуб» из Барнаула поедет на «КиВиН-2027» в Сочи",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFlGVUpkdEdfQTRGQTlyWl9VZmQ1NncweFdQaThNOXlIclk5WnhSZ2NlLVo2UEFTLU00czA5eU16MmdxU0RXRTZUQmMwY204cHRsS19JdkpacnBaUXN3Qkk2WmhiX0tGU0dzMjRLbE45S0doSi0zMTBteVhDUTZ0Q2lMSW5OSWprZ01Fd2QtQUZFVi1oRTV1dDJGZUJUVzFXVlZN?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:11:23 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "лучшая услуга алтая",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GSjBtbWtwc2kwYklxN1BNRXFsZk5KWVZfZ1M3WGxmTzNnblQwXzdITU1MdHAwYllXXzBPWXMzb05YUlZtOGJCc1RPZktvc1JQMnV1em95RTR0aGs?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:04:41 GMT",
+          "src": "Катунь 24",
+          "thumbnail": ""
+        },
+        {
+          "title": "72 компании Алтайского края признали лучшими по качеству товаров и услуг",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5UY3FCUHJWcnFUc0oteWVrU1ZtVTRmSkRDbEhHRHlwWElRWjhhYUJMbnhjWXAyZDdUTnhQUFcxVDJtdmk0?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:04:00 GMT",
+          "src": "Катунь 24",
+          "thumbnail": ""
+        },
+        {
+          "title": "Школьники из Барнаула посетили консультативно-диагностический центр",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFhyeEJHM0EyQlJFLUM0Nm54Rk1RYWJ0bVQwZTl0NUZHUHdldnlmSGFwc083R3dYUG1LcG1HZ1p1VlhUOXktbERxeFNvSnZHeUtuU29ZQ3BTbi0wVldiM3hleW1BM0RUdHZBSEFQU1RRY3M0dGF0TW9oUHBwdGxQcjAyYnExRFVjV3VyN1d0TE1hUXFhVTAycGc4VGpENEl4Mm5GZXRqOUphR1p3dF9vNFB4cGpqX0dJcVcxVA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:01:43 GMT",
+          "src": "Национальные проекты России",
+          "thumbnail": ""
+        },
+        {
+          "title": "Травматолог спас руку женщине со сложным переломом в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Xai1TX2YzZVliVjNfQ252cHE0eVhSMFhPUEVQY2NXUjJlWVJGSVg0VWhfaDlTSHVaZ1VYTkRweTltXzlN?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:57:00 GMT",
+          "src": "Катунь 24",
+          "thumbnail": ""
+        },
+        {
+          "title": "Д��мец из Алтайского края предложила убрать из эфиров скандальные шоу вроде «Беременна в 16»",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IZk9hY2cyalBaemRITjJjd0FqREVhMG44bmczMmVCUGs5TUNuQ0FtUkg3NGZqcVJuSHZTeVZ3OVhFVUh1aEo1M01qTQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:54:23 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Алтайском крае изъяли более 160 кг наркотиков в подпольной сельской лаборатории",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tNGhFZDlqNUdZWS1FcXRfYUFJWk9KTTZIdTZVei10dDQwR2ZhT2VIMG9ZcUFPeElVWG42bnA5OU16a2RmZHU0MDdLVQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:44:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "На прямую линию губернатора Алтайского края поступило около 500 вопросов",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFEY3lJME5vcmFUNDFCWDZaeW5ZZUV4dzJ4RzVlaGVScGZOVmpSX3RaQmtVdTFMckJQdGp2ZDZjWExYY09OT3ZfT2JweDZlLVZDWXVCNlFaVHJieHRvT1M3RzJ5ODNRM09TclVwWTdTcXhyUF9TWDZuYTV4UWlIWmxReWpMVE50bGRmUFplTDBrUXRQWGpqS3BOOXllbGVCdDlJT2NtWFFONWRa0gFLQVVfeXFMTTBIUG9sR1dabTZycGtGUEpOam1McHpId2JIR1I3dFcxMWQycjBmRjJQRWMyS1FoRzA5OXN4d1RZSWpRc3MyNGIzdHlV?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:36:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "На Алтае в Рубцовске состоялся семинар проекта «Автопоезд «Мой бизнес»»",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVZ6M2QzMklOeUZib0pud1M1aUhrZXFJdk5HUk9pLVJYaUc4TEh5bVBvbFNTUFhiX053dzBlbW41LUlKV0RGNGxlQ202bmFCc295VDNyNXpKSTUxMmNZYjdTRzh5eUVDYVhfYnJyR0hwdzdkb0dUaWRwTVIzeFNOcFFaSC1lSWVoakJ3VlRvRGpMZnFlaWl0Um9NdWdLYUJUU3RCMEZOWEhraW1ybDlWcHAybnhGc0RrcTdxQ2tuRQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:34:00 GMT",
+          "src": "Национальные проекты России",
+          "thumbnail": ""
+        },
+        {
+          "title": "Новосибирцев обвиняют в изготовлении более 167 кг наркотиков в Алтайском крае",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTltemRUQ2xlbHpuUFlndWFYRzRJaFhOQ2ZqeEhTS3RMUVg1MWVWOU94LWpQc0xUYXQ1bXVEVUpGT1ItWVFXa2IyVVdGNE9ZVEdxek0zNWRQc1J4UHhIbG91VW9tMkFONlhjd2dlNzVqV3BrZGIwVTBDdW9UY1Jha0JUc0MyZy1iaG5XaWJYcEREWHl3UGtiZTQxV3hqTTZ3UWw3SHlrWjY2UWVrQk9MVHJHMnhPMFhxWVpIblZLQzcxd9IBrwFBVV95cUxNTkZkbjc2Y3hZaVRRcHJTc195S09RaDMydG1lYy1zVy1NMFBUZnlrQlBTUkNIMldPUHgzci1XbnZhWmlTWDF5QVpiZVVZZVpLekhoWGhHaktPeFQ0Sk5aR09EakNSd1RTVEhKVV9mZHpZZEdadWsxY2VTdUJBSFRVTGdFUmdpOE93WkJreUZjdGdCY3E3SHJqeW9OM0tzZndIbHpCZ0JaREplVHd4YTY0?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 08:33:26 GMT",
+          "src": "Бийский рабочий",
+          "thumbnail": ""
+        }
+      ],
+      "ЭКОНОМИКА": [
+        {
+          "title": "Волейболистки «Локомотив-Ангары» одержали две победы в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxU005OXZpZC1VSm5nNVZfR2s5X2l4T1h6Q3RnZVBaZXVuYWZ1UkZJRW9WTU5ZSm9Xd2dJV2tLT1RWb3d1VVI3Z2NlV2VXM1E0MHVB?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:06:00 GMT",
+          "src": "Твой Иркутск",
+          "thumbnail": ""
+        },
+        {
+          "title": "Старое по-новому: студент-предприниматель возрождает классический формат антикафе в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVk10bDJXYWQ2X1NYSDhIQWNSSl9PNVQzdVJKRTVhelFDY1hGOFFKWHRkMTRldUhEVWtMVUFFWGNmZ2h5U1pBQWI4VW0zTFFqREVIQU1HcmRPWFJqa2RfTzNFZllFeWtHMFNpWV9QQVdBOVQtSTNwQlVwWFVpckowd2RqWjh6T1NSNWNkRnpFMjctaGxTc3MtTXJsZXp5dTFFU1NCN19ZZy1GMGxlRHdQT0pjSFRxVHRsQVpCVVQzaEpUdw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 00:54:56 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Бетон, кирпичи и стекла: как идет стройка новой суперполиклиники в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aSzlBY1gzcUx2TlZnemVOTUdnRFVSbEZicW5XQl95MU5scXVaOXVhNm9QTVhpVlc0NTROYURpMkQyM2tlMmZMaklIOGI0Q1Y0?oc=5",
+          "pubDate": "Tue, 17 Nov 2026 07:24:56 GMT",
+          "src": "Алтайская недвижимость",
+          "thumbnail": ""
+        },
+        {
+          "title": "Стройка среди сосен: в Барнауле монтируют крышу для школы спортивной гимнастики",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3dHVrSGhZdXBQa2FKTDhOeUIzNWkwcWlOZEVrVWpta1NxVWI2dmRJb0sxNkVzbzl4ZTE2WTFJME9KUUZzYXV2Z1FIOWUtNHM?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 07:27:10 GMT",
+          "src": "Алтайская недвижимость",
+          "thumbnail": ""
+        },
+        {
+          "title": "«Динамо-Барнаул»: итоги сезона, планы Данцева и бюджет клуба",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3ppUGRRa3Q4OVRCaHlzUmxjUzNZTU9DVnJrR2cweWRVdi1UU2lKVThhdVdGTWpYOVFEUzl5TGRxc2ZTaEFlWUhvRzQ0WnYySG1PYkJpSG9XVFl4R0xaNGgwdXBFSjlGWHYweWpmOXkxaENobE9CNzR4cE1JVC1GSkh0ZFFJTXljR0VNVkY1SnI0NTcyb1FKSVZhb3ZkSnVlWVl6WnZhWUo0YkhTalJCWTBLeDBrNWZPYXc?oc=5",
+          "pubDate": "Tue, 10 Nov 2026 04:12:23 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Бюджет Барнаула на 2027 год и плановый период рассмотрят во втором чтении в декабре",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjVwMWZWdkE4aW1iWVdlZzcxSFFSVHdhSW1WejNfZlg5ZGdEdGY1N1FxSlhxcVd3WURzMV9KS3Uyam1KRUpzaG9pTEFqMERPUDFWZTRMd2lZRVpLbk5WUGpFeTlhWFhkZkEtVlJfZUZqX3RFckZobklBX0daX3pCNFFBSTU5Y2d5cDhqWTNDbnhUalprNVVFNWxtRVlFMkNGQ0pTRkZfTG5GdFZVMmtEYVhxSnI4NVZZWUow?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Действующий отель на 16 номеров в Манжероке продают за 15,5 млн",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHJSeGJlZzkzRkM5My14c0lEN1hOcW5XMHlsY2hUS3hLN19vVElibll5ZVJKZTlPYzJmdmVhQS1ER0FOQ0NqSmFmcDFSckRwaGRqWkVOVmxxNWZRUEN1VjUtNzkzRlZOd3NvYmdWUUE2QzlxSGVNX0VJd0ZKNzU5NFNjdUljTlh0TllCRnlIaFBPZFhqOWNySQ?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
+          "src": "Алтапресс — новости Барнаула и Алтайского края",
+          "thumbnail": ""
+        },
+        {
+          "title": "На въезде в Барнаул построят бизнес-здание с дебаркадером. Рендеры",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWVjV3ExWEdkZWxRNUw1Qll2VU9FVHhFUTRwYjA5OExyM3ZHVXBDbFJLMi1nMjNWOFUwNVJfenhfS29SNFRHOHJ5Unp0LXo1RmZGZGdDdnZIWHVsckpFVjFGSVhvVl8tRGtBUVlPZUk0Qkhhc2xCX0IwUjdMaHM5cTJtZ3lCMG5uRVVnX1o5TEhlREUzMzQ3ekhvM1cxRkZHczMtMmZfUTZTZw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
+          "src": "prospect.com.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Что за здание с дебаркадером построят на въезде в Барнаул. Рендеры",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ05LZDhXLW9VSWRuOHA2NUhSVG1ZUzlaaDQ4S1NBUzl1cm1LU28tbEQ0VUE1NkJ0cEpPakFYSzh2OVliblZGSjRRQVdaZFAwcDYweVJoUDRxMDZPOHI2ckNzNm96RWxsbUsteXB6bmpTMnlIaEx5dHZMclF3TDVBM0NrTXpHZXAtUERoVEtWekotWmFGc21sYjIyQmk0QVUyVHlVNHBNZ3E2UdIBrwFBVV95cUxPTU1jNTRYbEMzb3REcC03Uml5dmVJMG83UWtyUVNqYU54WGxuTXZIY1NVOWZIM0FUcWNFaUNhZ0tCR1NFdklHSFFCWl9UbkdSaGs0eFl0R1Z4RXpXbWUwLTVaXzlGekhnWHpyaXF3T09LXzlIUXYzVFBwbFB1RUExUUt4M09GWjJ0Vk00eEJ4aDhHazlPYzdITS0zYUo3ZmlkbUJFY3N0SjczMURNWm9n?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+          "src": "Толк – новости Барнаула, Алтая и Алтайского края",
+          "thumbnail": ""
+        },
+        {
+          "title": "Бюджет Барнаула на три года получил поддержку участников публичных слушаний",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdlJObTVmRzhsM3BWcEppM1I0c2FtZEJYVkFmNXVsNXJGZUJtLU5nUWZYUmV4VjRYemRJaTM5b19Nb09teE5aUEJfN0xyVi02aFdDR3E2UWxiTTJlc2tSUmsyU0pCNGVnVmNabE5FSFR2TGlJdXRxRTZTUERUZmctMFl3bHlaS1h6VmxaYk9yV3FhYzc5MGd1SnVNTmlpd25CbmRHQ1lpdExUSkdJTnVTOXlfUVBNRFlWZnpz0gHAAUFVX3lxTFBXd1k3U1dJUVlvNzI3engyWXJ2SEprNno2QzZCX3c2bFpobEF5WkhrUmdUUGd2dzhvcUlVRXFPZi1JVHJsdlZSTmREUGM3b21ueWl4VWVJeUN2ejA1YV9RQThKc01scnBLNDZVSUlzYktSN2hSc2I0YUx1aVY0TExRTkxlMHQ4MllyZFFteHI3dktLRkh6aHNKd0dsZ2RtbXV0QlJ0SGNUcW5rOEZPMlAtWVVVUjMwcHlmTTE3alNJdg?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
+          "src": "Толк – новости Барнаула, Алтая и Алтайского края",
+          "thumbnail": ""
+        },
+        {
+          "title": "Как бразилец без знания русского языка живет и развивает бизнес в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmhWTkFmMFJRdUhOUERCdXpsUWdLN2RmaXlzRGNhR0Q2a204T192NTNKdG5ETTBnT3Bmb205eUIzU1c2LVFDM05NZG9Pd25yd0RSSG5SSFBxSVljQzhGS3phdTllN2Z1QXNfdDNaUGx6cmU3U1lRQW91Q0hLMk5tdlFRTERjNEpPUVI1TjFfeW55UHNBWnpxZlRUVC1pRHZOQlVmUVhnWXJiTkdDRGpHSGZQLVnSAboBQVVfeXFMTTF3UGc0NnRqMDBNMmF4OGVCRzBja1FrZ09lelEwR2IxeG1FOVNiUlBkTXNjQ1kxZHVhdHZrOFFyNFVnRWg1cVB1VXkxSmhzSVJJYzRvZUhOVGxMTVNDUzE5c25SWjBtMzkwLWdUMmpFVGpFVnVCalJpa3VmQnhDczNVRm1jMVhiMDI4bEplc2txeTRwR21GQnRyRXFJa1FpMm9KT1lDdUpib25WaGRYWGltel85TlBsX01B?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "src": "Толк – новости Барнаула, Алтая и Алтайского края",
+          "thumbnail": ""
+        },
+        {
+          "title": "Селлеры уходят со складов маркетплейсов. Как это меняет рынок логистики в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHpNWHR5a1dtdl80d3pWVXUyaC1wVlZ5UlQ3WEo0aEpZYUlEZ05iRGtUQnh4WEJFOVVTNzZSVFlXZDJQZ0tuZ3lRaW1TNHVKakhmMzRab2t3NDFQTGdtZG84QVJIU2ZLdjFQeW1YaXJKWUF6cFExOVRSN19oRFdVS0dydnJIX2xxaE9TUDRuY2dOSlJCTzVGanV6ZUxmUklsdURnWDc1Mi13QVlIcWVQZWJTSkJyZ9IBS0FVX3lxTE1waUNYUkFzb1hTWHpKV0ZrdjVYRXFCVG5FNXN6SlpIYXB4ODAxOVplYzlzb0hDUlBRUm5aNTBHVTNSOEJQbjhWMWlTUQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Стало известно, когда в Барнауле планируется рассмотреть бюджет города на 2027 год и последующий период",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3FQUlV0a0VSVDV2b0wxRnJ4b3lqdGZ6UnBnUVlPNTJ4WkIzbkdrOUpPbm5WODc5V01mWklXa01KREpveENxYzBNbElDWXhKeXZ6TXZYUUdZc1JmbF8yUXVudFZlanVHTTd2dzctTC1jbm1BV0ZyYWlna3pxTThlRVVSZkliYTJYTG5tY3RWc2FsYjE4TlFxaUF2WGhiX3cyd1lhQ2FrQ0tpeDhYUjhzSGQtbEdpeVdVM0JRSmZkdU9UdFl4bU9lNDRHT1c?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Цифровой рубль на Алтае. Что изменится для жителей и бизнеса и как им пользоваться",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkJScHliWHUzUHRabGIxc3M0LTRCZGhLUnJRUndIMmllenJxWVRYa2ExZFY2Q2tGT0tybjgxZFo2TllsWXBaaG1BYjY1VThGMlFUc19lY3hUelRyNXQySHlMZVhjckpmT0o5NExjM3ZMRm5GR0xudmtIVmJZSUcxbk8wN1BiNm5fenZFV0tUZm4wUGFVUmRvTy1tT2dFa1o4MXQxODFNYUtIMjltdW90TC1zekIyZ9IBS0FVX3lxTFBlTDYzMVdCY2hFQm84cXhlUkZ0cW5DYUtVaUtnZzVLY0lkRGNORDRvUFgtb2pEVGFwbHZxeWR3eHB3eFE5UGRfQlFFQQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Кирпичный ритм и Барнаул с высоты. Как сейчас выглядит масштабная стройка \"Сахаров Парка\"",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbV9XbWhQZ2lvZnJQUFdlOXRReVA0XzZhVUpLNVdQd3RUSDJLbEtUWTBGa0xxbmVkMGVUYnZ4bldsSE8tZ3A3YWtKQjIxY1d1MFVvbU41djNUMWo4UXpiUlIxazlxSzFpRUQzUDNhd2V1WHZBWlltZDA5OUtsZ19jVXNUZWxKbWNyd0JURHl6Ty1QOTZlZHBxazlVejFsakRlck8wWERnRWlUWTZDdVNpOFg2eWloN0NoR2s4bk9qaG_SAUtBVV95cUxOM3V3ZVVqOG1Cdjc2UldXUDcxczhpenY3VFN0czlUYXRBcTFMVkZnNk5NTU15X1hsbDI5eGhtUGRRc0xJOXVnaDd6djA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        }
+      ],
+      "КРИМИНАЛ": [
+        {
+          "title": "Власти Барнаула взыскали с «Горэлектротранса» 60 млн рублей за «невыполнение плана»",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJVGlQdW9FWFJNT2E0MmhCRHB1UHJvZjBmdkJaYXFKUHpEZXVOQTFPV3BxY3NGTFM5S2doclZoeWZ5dC1RaDJ2bGNEcHoxTGI5?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 02:05:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Прокуратура требует от мэрии Барнаула компенсаций для жильцов аварийного дома",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GNlFBTWRxSklaVWhEbGcweXJickNJRGhpRmZha2Q0NjVMV2c1NWY5NFBCQ3p2TzNCMHdtVkE1Qzd1R1pKVkh2YmRzOA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:33:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд вынес приговор трем наркосбытчицам за закладки в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1loUnFlTGs2d1FESFMzNUhWSF9wbE1Yb1BPblVCYlVXdEw1VWlXX0lzTzFMU3E0TG96OUt1WWVxblNXOExJWTg3QUgtZzNsT1BlLXZSb3c3SFZkd3FHdWtncks0TFpEWWRkZzlwbHRxdFh3NFVhc29nbVVMUmgtSlNZYkx6dkhXbDZxQ0pjNEFTeHpJTkc3MU9adERzWXFHd3plUU44ZnVwWGh4dlJpQjZKUQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 00:40:41 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Барнауле росгвардейцы задержали подозреваемого в краже бензопилы",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFdDT2NwSDVaUWUyUENKeXplQnl3bjhDemk4cnpScURxaGJVR3V2YzdLckFqU1NsdkJFcUYyTTZ6ZC1obXRqR2QwdVdCQkRMOGRPYkFTbHB3dXFianhIbXNnMkwzSXNaZUNYUVpPUGJ6RnZhRTVxYVJmME5DTWNoTlRpSzF5b0VGLVo2dWw5ZzBqdTNQdTM5X2ltbTlQNC1oWE9wN29sZHZiYVVwQV9NWmNMb1JQT0hv?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 04:43:06 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Помощница по дому подозревается в краже денег с карты пенсионера",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1pleVZaajI3MWF6a2loNmlDSHE4R19fZzBaTVFoeFpYckE5Z1VUYi14bFNGNUpaMWRlVmxSdGxVOXRJNkNkUng2dFV4dnpZWFB2TDVER05WVWRycnhKUmJMdkxPcGo2UmxSUFk2cDJGendWN3BSMGRGUDN3VnBDUDhvYUFNc1MzMmVDWURRM3JpMTJDSi12QXZZOHJJQnQ0NE04bXpTLUtBMnhiRl9DWjJsUzVVV0tjNEdXMi1NUmQyenExbDZjTHBwVHVQRkk?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 02:16:13 GMT",
+          "src": "barnaul-altai.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Кольца и проекты: благоустройство центральной части Барнаула вынесут на суд общественности",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtQjZuM05fWF9ScHhiQ0xGRjZYb0JQS042R0g3Q21vRU03alhTazU4WmowOWdtOGJHQnJKMGpqdzQweVJkWlVNc0dyamhISk96?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 04:55:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд приостановил работу автозаправки в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4eC0xNi1vQXpaWmVseWJ0X3o5ZUYyckc3XzUzQlQzaWVNZXRkLWdGMExDQkZ6TmZGeVFmUUlFenBjc0lG?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 03:52:00 GMT",
+          "src": "Катунь 24",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Барнауле экс-бухгалтер из комитета по образованию отделалась условным сроком за мошенничество",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZHhYQmpBaTMxY3BTMnJjWlZwT3ZzcVExYlB0c2ppWlZfbWRsczR6eGE3MDBLSHdWVWpON0xMQnhrYXphSnRmV1pTTldlZFZWZGc?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 23:59:00 GMT",
+          "src": "Байкал24",
+          "thumbnail": ""
+        },
+        {
+          "title": "Экс-бухгалтеру комитета по образованию Барнаула вынесли приговор по делу о мошенничестве",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEJydTV3Ylpma0kwTU50N3laZkZjYk5fZ0hJemRJX0VobnQ0MThsNEFBN2tZTUlMbkdKYkUwYXo3MElzU3E0WVlZMmtnMTV6R0x5LXNQUDhvaGNQaGNRNFJXY1BTMWo5TU0tUWZabTJVOHN5LXRqY2lDVUQzZVh1M0pReWk5blFPX2ZPT0QyRDFjV2VzTXZNRl9Kblk4UlFoX2F1bVZlNXRHMVdMaVJsaHIxbXhvYno4X2M40gHAAUFVX3lxTE9Eem9MRlZqckYzbTVlUTl6WWNhVDV2eXU1cDY3WEl1ZHc0T1ZucDYyUmFHU2FfYWQybXBHVW9EWU5YSWRBRDRfbnpvSlJvQ0FDTUlEZGpYOTh3dlZrZWJtMFRLVUVDM3g2QUJEOHNUaHVkR0ZzQlFLLXJiNExJckNfZFBOS3lrdUZPaGVfZTBvRVI0Z3pZc1dlOVluQ1lxQXBEODd1eTNCM2x5ODJfYlVGSnB3eFVDRmpWVDZYQkstYw?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 10:38:02 GMT",
+          "src": "Континент Сибирь Online",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд прикрыл опасную АГЗС в Барнауле",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3YzVQMHkwUlZfN3NLRDF4dElucU15NUNMMDlYRi1rZzlDUWZ3MEZzeXBEN096MmRmdXViT2RwWG1icHlFT0Q5SDlBRQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 09:16:00 GMT",
+          "src": "Банкфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Суд оставил в силе приговор \"политеховскому маньяку\" за убийство 11 женщин",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45T19Jc21jdkw0MXlGU21MUGRTQ3UzNmVXLXlwUFk2bjVlWnppYnFTUlpTZU9NbU1JekZ3T2h3Sk1mUG1JWnMxaWxaZ9IBS0FVX3lxTE45T19Jc21jdkw0MXlGU21MUGRTQ3UzNmVXLXlwUFk2bjVlWnppYnFTUlpTZU9NbU1JekZ3T2h3Sk1mUG1JWnMxaWxaZw?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 07:34:00 GMT",
+          "src": "Интерфакс",
+          "thumbnail": ""
+        },
+        {
+          "title": "Краснинский суд осудил жителя Барнаула за контрабанду военной техники",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WeVFuZjZLQzhqTlFNVjdDOVRiUlp5Z0NkZS1peWZWODc2UElyVkRQek82REt5TFRiRkEzQmtudXg4Z3RfTFlhNjZXYnJTR0NwVlo5WWtkTjhZTHotVnNVQjRlSDNhLUJSOGpQczMwTQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 07:01:28 GMT",
+          "src": "Newsroom24",
+          "thumbnail": ""
+        },
+        {
+          "title": "В Барнауле чествовали ветеранов уголовно-исполнительной системы",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGgwRHVLUlhqVkZuZEY4b0oyTzNYVDFERVVua3BPLUptanJCUTUyNEFhYmJtYnJaWlZxWXJIYnFVNVh4WFFKT0dUY01NR2ZtUHB0OHBDZDRuTUlXSFd3czNQWFNNSHRWTzRoTUJZNFI5ZTFWMFZWUXZKQk16ZHM3bkVZcGFMNkxlMWtBOUtMOGF2elp0TFRIeENDZw?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 05:35:38 GMT",
+          "src": "Вечерний Барнаул",
+          "thumbnail": ""
+        },
+        {
+          "title": "Устроил ДТП и исчез. В Барнауле задержали водителя, размахивавшего мачете на дороге",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0stWk1ScW4wNTFyRmZlXzl0enR0Zmk4RWpFUmlmSkdXbkZJZlZkWTBXREk0eTQ2XzBWQmZJTms4amljR3F4X3NtaGp5RlAxNzY0OFZWeUgzSTV0SDA5bjczRnFRNzd1eVRfUUpRZTJtTkU5emZmbDlZX2o5YXFuVE1XYURjUzVWa3lxUkdvbXVrTi1UaDAxMUpMdlJPbHprZndKQThvZ01uckFNNGc5SFNLT2VSTUFFd01LR9IBS0FVX3lxTFBZbmU4a2RpdTdiNnBGNk1HbjlyckV5YzdQVDI1YVhwUlIxNFIzaXJNWmhSS2xySHdiT0NmbGxLQ2RLMDVyQkhqbFQwUQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 02:48:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        },
+        {
+          "title": "Третье уголовное дело о мошенничестве при строительстве аэропорта Барнаула направили в суд",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEZubWhualAwYU5kRnlHUWJLNnU0bU9oLU42dDFBcGhvS0lTRlFMUUpvLUp5VHkyYlZnWE1nZDBGd2RnNGZuWGUwSkJhZEN6VjU5UngtN3RnaThKdnZCd1k1aHB3VGdNUnVXTm1PQ2JvYXJwbUxkUmlocjZIRWdidkxvYkpmQTBDRU1BRjNfM2wwaXVVeVhzMVhKQmVFREh0OHVyNTNvVS1lUnhmME1NLVJmbFVoQnY1ZkQwNENRVdIBS0FVX3lxTE40emFpSjRfYWhvSkZWR2UzOG92RFFwanhsT3ZmNjBtWUVGbE5wLWhUcmpfclZ3ZVZieEJWa2xWSEhQSmtaZUFHYXNKaw?oc=5",
+          "pubDate": "Wed, 18 Nov 2026 14:31:00 GMT",
+          "src": "Amic.ru",
+          "thumbnail": ""
+        }
+      ]
     }
   }
 }
